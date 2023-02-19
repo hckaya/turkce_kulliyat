@@ -1,0 +1,1192 @@
+İ.T.Ü. Edebiyat
+
+
+Macbeth - Shakespeare
+----------------------
+
+  DÜNYA KLASİKLERİ DİZİSİ: 51
+
+  MACBETH
+
+  Bu kitabın hazırlanmasında MACBETH'in MEB İngiliz Klasikleri dizisinde yayınlanan ikinci baskısı temel alınmış ve çeviri dili günümüz Türkçesine uyarlanmıştır.
+
+  Yayına hazırlayan : Egemen Berköz
+  Dizgi : Yeni Gün Haber Ajansı Basın ve Yayıncılık A.Ş.
+  Baskı : Çağdaş Matbaacılık Yayıncılık Ltd. Şti.
+  Haziran 1999
+ 
+
+  SHAKESPEARE
+ 
+
+  MACBETH
+ 
+
+  İngilizce'den çeviren:
+  Orhan BURİAN
+ 
+  Not: Satır sonlarında görülen ** işaretleri orada düzeltmeler yapıldığı anlamına gelir. Kimi İngilizce deyimlerin de Türkçe karşılığı * ile sahne sonlarında belirtilmiştir. (İTÜ Edebiyat)
+ 
+ 
+
+  Hümanizma ruhunu anlama ve duymada ilk aşama, insan varlığının en somut anlatımı olan sanat yapıtlarının benimsenmesidir. Sanat dalları içinde edebiyat, bu anlatımın düşünce öğeleri en zengin olanıdır. Bunun içindir ki bir ulusun, diğer ulusların edebiyatlarını kendi dilinde, daha doğrusu kendi düşüncesinde yinelemesi; zekâ ve anlama gücünü o yapıtlar oranında artırması, canlandırması ve yeniden yaratması demektir. İşte çeviri etkinliğini, biz, bu bakımdan önemli ve uygarlık davamız için etkili saymaktayız. Zekâsının her yüzünü bu türlü yapıtların her türlüsüne döndürebilmiş uluslarda düşüncenin en silinmez aracı olan yazı ve onun mimarisi demek olan edebiyatın, bütün kitlenin ruhuna kadar işleyen ve sinen bir etkisi vardır. Bu etkinin birey ve toplum üzerinde aynı olması, zamanda ve mekânda bütün sınırları delip aşacak bir sağlamlık ve yaygınlığı gösterir. Hangi ulusun kitaplığı bu yönde zenginse o ulus, uygarlık dünyasında daha yüksek bir düşünce düzeyinde demektir. Bu bakımdan çeviri etkinliğini sistemli ve dikkatli bir biçimde yönetmek, onun genişlemesine, ilerlemesine hizmet etmektir. Bu yolda bilgi ve emeklerini esirgemeyen Türk aydınlarıa şükran duyuyorum. Onların çabalarıyla beş yıl içinde, hiç değilse, devlet eliyle yüz ciltlik, özel girişimlerin çabası ve yine devletin yardımıyla, onun dört beş katı büyük olmak üzere zengin bir çeviri kitaplığımız olacaktır. Özellikle Türk dilinin bu emeklerden elde edeceği büyük yararı düşünüp de şimdiden çeviri etkinliğine yakın ilgi ve sevgi duymamak, hiçbir Türk okurunun elinde değildir. 
+  23 Haziran 1941.
+  Milli Eğitim Bakanı
+  Hasan Âli Yücel
+  SUNUŞ
+
+  Cumhuriyet'le başlayan Türk Aydınlanma Devrimi'nde, dünya klasiklerinin Hasan Âli Yücel öncülüğünde dilimize çevrilmesinin, kuşkusuz önemli payı vardır.
+  Cumhuriyet gazetesi olarak, Cumhuriyetimizin 75. yılında, bu etkinliği yineleyerek, Türk okuruna bir "Aydınlanma Kitaplığı'' kazandırmak istedik.
+  Bu çerçevede, 1940'lı yıllardan başlayarak Milli Eğitim Bakanlığı'nca yayınlanan dünya klasiklerini okurlarımıza sunmaya başladık.
+  Büyük ilgi gören bu etkinliği Milli Eğitim Bakanlığı'nca yayınlanmamış -ancak Aydınlanma Devrimi yarıda kalmasaydı yayınlanacağına kesinlikle inandığımız- dünya klasiklerini de katarak sürdürüyoruz.
+
+Cumhuriyet
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+ MACBETH
+ 
+  KİŞİLER
+ 
+  DUNCAN İskoçya Kralı
+  MALCOLM, DONALBAIN   Oğulları
+  MACBETH, BANQUO Kral ordusunun komutanları
+  MACDUFF, LENOX, ROSSE, MENTETH, ANGUS,
+    CATHNESS İskoçya Soyluları
+  FLEANCE Banquo'nun oğlu
+  SIWARD Northumberland beyi, İngiliz ordusunun
+    komutanı.
+  GENÇ SIWARD Oğlu
+  SETON Macbeth'in zırh taşıyıcısı
+  ÇOCUK Macduff'un oğlu
+  BİR İNGİLİZ HEKİMİ
+  BİR ASKER
+  BİR KAPICI
+  BİR YAŞLI
+  LADY MACBETH
+  LADY MACDUFF
+  BİR NEDİME Lady Macbeth'in hizmetinde.
+  HECATE ve ÜÇ CADI
+  Soylu kişiler, beyler, askerler, katiller, hizmetliler, haberciler, Banquo'nun hayaleti ve daha başka hayaletler.
+  Sahne: Dördüncü perdenin sonu İngiltere'de; oyunun
+  geri kalan bölümü İskoçya'da geçer.
+ 
+
+
+
+
+
+
+
+  BİRİNCİ PERDE
+ 
+  SAHNE I
+
+  Açıklık bir yer.
+
+  Gök gürler, şimşek çakar. Üç cadı sahneye girer.
+
+  BİRİNCİ CADI - Üçümüz bir daha ne zaman buluşalım? Gökler gürler, şimşekler çakarken mi? Yoksa yağmurlar yağarken mi?
+  İKİNCİ CADI - Karışıklık sona erdiği zaman; çarpışma yitirildiği ya da kazanıldığı zaman.
+  ÜÇÜNCÜ CADI - Bu iş, gün batmadan belli olur.
+  BİRİNCİ CADI - Yer neresi olsun?
+  İKİNCİ CADI - Şu fundalık başı.
+  ÜÇÜNCÜ CADI - Orada Macbeth'i de görecektik zaten.
+  BİRİNCİ CADI - Karakedi, geliyorum.
+  İKİNCİ CADI – Kara Kurbağa* çağırıyor. **
+  BİRİNCİ CADI – Derhal (geliyoruz). **
+  HEPSİ - İyi kötüdür, kötü de iyi. Uçalım sisli havada, puslu havada.
+  (Sisin içerisinde yok olurlar...) **
+
+*igrenç kimse
+ 
+  SAHNE II
+ 
+  Fores yakınlarında bir ordugâh.
+ 
+  İçeriden davullar çalar. Kral Duncan, Malcolm, Donalbain, Lenox ve hizmetliler girer; yaralı bir subayla karşılaşırlar.
+ 
+
+  DUNCAN - Kan içindeki bu adam kim? Ayaklanmayla ilgili en yeni haberleri verebilecek gibi gözüküyor.
+
+  MALCOLM - Benim tutsak düşmemem için yiğitçe çarpışan çavuş bu. Merhaba yiğit arkadaş! Sen bıraktığın sırada dövüş nasıl gidiyordu, anlat krala.
+
+  SUBAY - Ne olacağı belli değildi. Sarılıp, birbirinin kımıldamasını önleyen, iki bitkin yüzücü gibiydiler. Acımasız Macdonwald, tam isyancı olacak bir adam, dünyada ne kadar kötülük varsa hepsi onda, batı adalarından yaya atlı pek çok asker toplamış. Talih de, asinin kahpesiymiş gibi davranıp, onun ilençlenesi kavgasına güler yüz gösteriyordu. Ama bütün bunlar yetmedi. Çünkü kahraman Macbeth, bu niteleme onun hakkıdır doğrusu, talihe aldırmadı; O, yiğitliğin gözdesi, adam öldürmekten kan tüten kılıcını çevreye savurarak yolunu açtı, o köle herifle yüz yüze gelinceye kadar. Karşılaşınca da selamlaşmaya fırsat bırakmadan onu göbeğinden çenesine kadar ikiye ayırdı. Sonra da kafasını mazgallarımızın üzerine dikti.
+
+  DUNCAN - Ah yiğit kardeşim benim! Değerli adamdır o!
+  SUBAY - Güneşin ilk ışıklarının geldiği yerden, korkunç fırtınalar, gök gürültüleri geldiği gibi huzurun da geleceği umulurken büyük bir huzursuzluk taştı bu kaynaktan. Dinle, İskoçya hükümdarı, dinle; yiğitlikle bezenmiş haklılığımız karşısında, İrlandalı piyadeler henüz tabana kuvvet kaçışmışlardı ki Norveç Kralı durumun kendisi için elverişli olduğunu görerek, elinde yepyeni silahlar, arkasında taze güçlerle yeniden saldırıya geçti.
+
+  DUNCAN - Bu, bizim komutanlarımız Macbeth'le Banquo'yu ürkütmedi mi?
+
+  SUBAY - Evet; serçelerin kartalları, tavşanın aslanı ürküttüğü kadar. Her şeyi olduğu gibi söylemem gerekirse, onlar üst üste çift gülleyle doldurulmuş toplar gibiydiler. Düşmana darbe üstüne darbe, darbe üstüne darbe indirdiler. Bütün bunlar yaralılardan akan kanda yıkanmak, ya da tarihe bir ikinci Golgotha (1) geçirmek için değilse ne içindi bilmiyorum... Ama yaralandım, yaralarım yardım diye bağırıyor.
+
+  DUNCAN - Yaraların gibi sözlerin de sana uygun: her ikisinde de onur tadı var... Gidin ona cerrah bulun.
+  (Subay hizmetlinin yardımıyla çıkar. Rosse girer.)
+  Bu gelen kim?
+  MALCOLM - Değerli Rosse Beyi.
+  LENOX - Gözlerinden telaş okunuyor! Duyulmadık haberler verecek bir insan gibi bakıyor.
+  ROSSE - Tanrı hükümdarımızı korusun!
+  DUNCAN - Nereden geliyorsun değerli soylu?
+  ROSSE - Fife'tan, ulu hükümdarım, Norveç bayraklarının gökle alay ettiği, dalgalana dalgalana halkımızı üşüttüğü yerden. Norveç Kralı, hain Cawdor beyinden de yardım alarak, pek büyük sayıda askerle belalı bir savaşa girişti. Ama sonunda Tanrıça Bellona'nın sevgili Macbeth'i, silahlarını kuşanarak, onunla boy ölçüşmeye hazırlandı. Güce karşı güç, silaha karşı silah, düşmanın hızını kesti. Kısacası zafer bize düştü.
+  DUNCAN - Ne büyük mutluluk!
+  ROSSE - Öyle ki, artık Norveç Kralı Sweno barış isteğinde. Ama biz, Saint Colm Adası'nda on bin taler almadan ölülerini gömmelerine izin vermedik.
+  DUNCAN - Cawdor Beyi denen o hain bir daha bizi aldatamayacak. Gidin, hemen öldürülmesini söyleyin; onun unvanıyla da Macbeth'i selamlayın.
+  ROSSE - Buyruğunuzu yerine getiririm.
+  DUNCAN - Onun yitirdiğini soylu Macbeth kazandı.
+  (Çıkarlar.)
+ 
+
+  SAHNE III
+ 
+  Fundalık.
+ 
+  Gök gürler. Üç cadı girer.
+ 
+  BİRİNCİ CADI - Neredeydin kardeş?
+  İKİNCİ CADI - Domuz öldürüyordum.
+  ÜÇÜNCÜ CADI - Ya sen kardeş?
+  BİRİNCİ CADI - Bir gemici karısının kucağında kestaneler vardı, ağzını şapırdata şapırdata yiyip duruyordu. "Bana da ver" dedim. Çöplük yosması, "Hadi oradan cadı!" diye haykırdı. Kocası Kaplan gemisinin süvarisi, Halep'e gitmiş; ama ben de bir eleğe binip arkasından gideceğim. Hem de kuyruksuz fareler gibi. Yapacağım bu işi, yapacağım da yapacağım.
+  İKİNCİ CADI - Sana bir rüzgâr vereyim.
+  BİRİNCİ CADI - Sağ olasın.
+  ÜÇÜNCÜ CADI - Ben de bir tane daha.
+  BİRİNCİ CADI - Başka ne gerekirse hepsi bende var; estikleri bütün limanlar, gemici haritasında raslanan bütün yönler. Onu saman gibi kupkuru kurutacağım. İnik göz kapaklarına uyku, ne gece girecek, ne gündüz. Yaşamını ilençlenmiş insanlar gibi geçirecek. Dokuz kez dokuz hafta geçerken o süzülecek, eriyip canı çekilecek. Gemisi batmasa bile fırtınadan fırtınaya düşecek. Bak, bende ne var!
+  İKİNCİ CADI - Göster bakayım, göster bakayım!
+  BİRİNCİ CADI - Ülkesine dönerken batan bir kaptanın baş parmağı.
+  (İçerden davul çalar.)
+  ÜÇÜNCÜ CADI - Davul çalıyor, davul! Macbeth geliyor.
+  HEPSİ - Yazgı kardeşler; el ele kara aşar, deniz aşar, böyle döner dolaşırlar. Üç kez senin için, üç kez benim için, bir üç daha, dokuz etmek için. Durun! Büyü tamam oldu!
+  (Macbeth ile Banquo girerler.)
+  MACBETH - Hem bu kadar iyi, hem de bu kadar kötü bir gün yaşamamıştım ben.
+  BANQUO - Fores'e ne kadar yol var! Bunlar da ne? Böyle kupkuru, üstleri başları acayip, dünyalılara hiç benzemiyorlar. Canlı mısınız? İnsan soru sorarsa yanıt verebilir misiniz? Her birinizin param parça olmuş parmağını kurumuş dudağına götürdüğüne bakılırsa söylediklerimi anlamışa benziyorsunuz. Kadın olsanız gerek. Ama sakallı kadın da olmaz ki.
+  MACBETH - Konuşabiliyorsanız söyleyin, nesiniz siz?
+  BİRİNCİ CADI - Selam Macbeth! Selam sana, Glamis Beyi!
+  İKİNCİ CADI - Selam Macbeth! Selam sana, Cawdor Beyi!
+  ÜÇÜNCÜ CADI - Selam Macbeth! Selam geleceğin hükümdarı!
+  BANQUO - Sevgili efendim, neden irkiliyor, kulağa bu kadar hoş gelen şeylerden ürkmüş gözüküyorsunuz? Söyler misiniz, sizler hayalet misiniz, yoksa gerçek mi? Soylu arkadaşımı durumuna uygun bir onurla, sonra soylu bir kısmetin ve bir de hükümdarlık umudunun müjdesiyle selamlıyorsunuz: öyle ki bunlarla kendinden geçmiş gibi. Bana bir şey söylediğiniz yok. Eğer zamanın tohumlarını seçmek, hangi tanenin büyüyüp hangisinin büyümeyeceğini haber vermek gücündeyseniz, bana da bir şeyler söyleyin; bilin ki ben, ne lütuflarınızı dilenir, ne de nefretinizden korkarım.
+  BİRİNCİ CADI - Selam!
+  İKİNCİ CADI - Selam!
+  ÜÇÜNCÜ CADI - Selam!
+  BİRİNCİ CADI - Hem Macbeth kadar değil, hem Macbeth'ten üstün.
+  İKİNCİ CADI - Hem onun kadar mutlu değil, hem ondan daha mutlu.
+  ÜÇÜNCÜ CADI - Sen hükümdar olmayacaksın, ama soyundan hükümdarlar gelecek. Selam ikinize de, Macbeth ve Banquo!
+  BİRİNCİ CADI - Banquo ve Macbeth, selam!
+  MACBETH - Durun, yarım yamalak konuşanlar sizi! Biraz daha konuşun, Sinel'in ölümüyle Glamis Beyi olduğumu biliyorum. Ama Cawdor nasıl olurum? Cawdor Beyi yaşıyor, kaygı duyulacak bir durumu da yok. Kral olmak da Cawdor olmak gibi inanılacak bir şey değil. Söyleyin, insanı şaşkına çeviren bu bilgileri nereden edindiniz? Bu kavruk fundalıkta kehanete kaçan selamlarınızla neden yolumuzu kestiniz? Söyleyin, emrediyorum!
+  (Cadılar kaybolur.)
+  BANQUO - Su gibi toprağın da kabarcıkları oluyor. Bunlar da o kabarcıklardan. Nereye yitip gittiler acaba?
+  MACBETH - Havaya; cisim gibi dururken, soluk gibi rüzgârda dağıldılar. Keşke biraz daha dursaydılar!
+  BANQUO - Sözünü ettiğimiz şeyler burada gerçekten var mıydı, yoksa insanın aklını başından alan deliotu mu yedik?
+  MACBETH - Çocuklarınız kral olacakmış.
+  BANQUO - Siz de kral olacakmışsınız.
+  MACBETH - Cawdor Beyi de; öyle demediler mi?
+  BANQUO - Öyle dediler, hem de aynı sözcüklerle. Kim bu gelen?
+  (Rosse'la Angus girer.)
+  ROSSE - Başardığın işin haberi kralı çok sevindirdi Macbeth. Asilerle çarpışmak için atıldığın tehlikeleri öğrenince, düştüğü şaşkınlık ve duyduğu hayranlık birbiriyle yarış etti. Sana hayran mı kalsın, yoksa yaptıklarına şaşsın mı kestiremez oldu. Dili tutuldu. Sonra, o savaş günü olup bitenleri gözünde canlandırmaya çalıştı: Seni, yenilmezliğiyle anılan Norveçlilerin içine dalmış, geride korkunç ölüm görünümleri bırakarak, korkusuzca yürürken gördü. Haberciler dolu gibi birbiri ardından yağıyordu. Her biri ona, krallığın büyük savunmasında senin ne değerli hizmetler gördüğünü uzun uzun anlatıyordu.
+  ANGUS - Devletli efendimiz bizi, sana teşekkürlerini bildirmek için gönderdi. Seni sadece onun huzuruna götürmekle görevliyiz, ödüllendirmeye değil.
+  ROSSE - Yalnız, daha büyük bir onura işaret olmak üzere, benim seni, onun adına, Cawdor Beyi diye selamlamamı istedi. Bu yeni unvanla seni selamlarım, çünkü bu unvan artık senin oldu.
+  BANQUO - Ne! Şeytanın söyledikleri doğru mu çıkıyor yoksa?
+  MACBETH - Cawdor Beyi sağ; ne diye bana eğreti giysiler giydiriyorsunuz.
+  ANGUS - Evet, eskiden Cawdor Beyi olan o adam hâlâ sağ; ama başını kaybedecek kadar ağır bir suç altında. Norveçlilerle birlik mi oldu, yoksa gizli gizli yardım ederek asileri mi güçlendirdi, ya da her iki yoldan da ülkenin yok olmasına mı çalıştı, bilmiyorum. Fakat hem itirafla, hem de kanıtla ortaya çıkan vatan hainliği onu yere vurdu.
+  MACBETH - (Kendi kendine.) Glamis, sonra Cawdor Beyi; en büyüğü en arkada.(Angus'a döner.) Zahmetlerinize teşekkür ederim. (Banquo'ya yavaşca.) Çocuklarınızın bir gün kral olacağını ummuyor musunuz? Bana Cawdor Beyliği'ni bağışlayanlar sizin için de bu sözü verdiler...
+  BANQUO - Bunlara sonuna kadar inanırsanız, Cawdor Beyliği'yle yetinmez, hükümdarlık ateşiyle de yanarsınız. Ama gariptir: Çok kez, başımızı belaya sokacak işler yapmamız için şeytan doğru bilgiler verip önemsiz şeylerle bizi elde eder. Sonra da en önemli yerde bize ihanet eder. (Rosse ile Angus'a.) Arkadaşlar rica ederim gelir misiniz, söyleyeceklerim var.
+  MACBETH- (Kendi kendine.) Hükümdarlığa giden yolun mutlu başlangıcı olarak bana iki gerçek söylendi. (Rosse ile Angus'a) Teşekkür ederim beyler! (Kendi kendine.) Bu olağanüstü haber kötü olamaz, iyi de olamaz; kötü olsa, ne diye daha başlangıçta doğru çıkarak bana başarının tadını tattırsın? İşte Cawdor Beyi oldum. İyi olsa, niçin aklıma gelen korkunç şeyler saçlarımı diken diken ediyor? Korkunç düşünceler insanın karşısında duran korkunç şeylerden daha beter. Cinayet kafamda henüz bir kurmacayken şu zayıf benliğimi öyle sarsıyor ki, iş henüz düşünce durumundayken boğuluyor, henüz gerçekleşmeden yok oluyor.
+  BANQUO - Bakın arkadaşımız nasıl da kendinden geçti.
+  MACBETH - (Kendi kendine.) Eğer bahtımda kral olmak varsa, o tac başıma ben kımıldamasam da geçer.
+  BANQUO - Yeni onurlar ona yeni giysiler gibi geldi. Üstüne iyice oturmuyor, ancak kullanıla kullanıla oturacak.
+  MACBETH- (Kendi kendine.) Ne olursa olsun, zaman en kötü günü de sona erdirir.
+  BANQUO - Değerli Macbeth, siz ne zaman hazırsanız biz de hazırız.
+  MACBETH - Kusurumu bağışlayın. Yorgun kafam unutulmuş anılara kapılıp gitmişti de! İyi yürekli, soylu dostlarım, emekleriniz öyle bir deftere yazıldı ki, onları okumak için sayfalarını her gün çevireceğim. Haydi krala gidelim. (Banquo'ya.) Olup bitenler üstünde düşünün; daha fazla bir zamanımız olunca, birbirimize içimizi açıklıkla dökeriz.
+  BANQUO - İyi olur.
+  MACBETH - O zamana kadar konuşmayalım bu işi. Gelin arkadaşlar.
+  (Çıkarlar.)
+ 
+
+  SAHNE IV
+ 
+  Fores. Sarayda bir oda.
+
+  Borazan çalar, Duncan, Malcolm, Donalbain, Lenox
+  ve hizmetliler girer.
+
+  DUNCAN - Cawdor idam edilmiş mi? Bu işle görevlendirilenler daha dönmediler mi?
+  MALCOLM - Daha dönmediler, hükümdarım; ama, onu ölürken gören biriyle görüştüm; anlattığına göre, yaptığı hainlikleri açıkça itiraf etmiş, siz efendimizin onu bağışlaması için yalvarmış, çok pişmanlık duyduğu görülüyormuş. Yaşamda hiçbir şey ona bu yaşamdan ayrılışı kadar yakışmamış. Ölümüne uzun uzun hazırlanmış bir insan gibi ölmüş. Sahip olduğu en değerli şeyi sanki değersiz bir oyuncakmış gibi atıp gitmiş.
+  DUNCAN - Zihnin neler kurduğunu insanın yüzünden anlayacak hiçbir sanat yok. Kendisine sarsılmaz bir güvenle dayandığım bir beydi...
+  (Macbeth, Banquo, Rosse ve Angus girerler).
+  Ah benim çok değerli amca oğlum! Daha az önce, iyilik bilmezlik günahının ağır yükü altında eziliyordum. Sen o kadar yükseklerdesin ki armağanlar kanat bile taksalar sana erişemiyor. Ne olurdu daha az şeyi hak etseydin de seninle ödeşebilecek güçte olsaydım. Ama şimdi bana bir şunu söylemek kalıyor: Ne verilirse verilsin yine sen alacaklısın. Sana borcumuzu ödeyemeyiz.
+  MACBETH - Size bağlılık benim boynumun borcudur. Yerine getirilmekle kendini öder. Siz efendimiz bizden bağlılığımızı kabul edin, yeter. Bizler tahtınızın, devletinizin çocukları, hizmetlileriyiz; yaptığımız, yapmak zorunda olduklarımızdır; bunlar size duyduğumuz sevgi ve saygıyla yapılmıştır.
+  DUNCAN - Hoş geldin, yerin yüreğimdedir: Orada seni daha da büyütmeye çalışacağım. Soylu Banquo, senin hak ettiğin değerin de, hak ettiğin armağan da daha az değil. Gel seni kucaklayıp bağrıma basayım.
+  BANQUO - Orada kök salarsam meyvesi sizindir.
+  DUNCAN - Coşup taşan, gemlenemez sevincim kendini göz yaşlarıyla saklamaya çalışıyor. Oğullar, yakınlar, İskoç soyluları! Yeri tahtımızın yanı başı olanlar! Hepiniz de bilin ki devleti en büyük oğlumuz Malcolm'a bırakacağız; kendisine bundan böyle Cumberland Prensi adını veriyoruz. Bu onur yalnızca ona verilip yoldaşsız kalmayacak; hak edenlerin hepsinin üstünde soyluluk nişanı yıldızlar gibi parlayacak. Buradan Inverness'e gidelim, daha yakından bağlanalım birbirimize.
+  MACBETH - Sizin için hizmet etmiyorsak, dinlenmek yorulmak demektir. Ben kendim habercilik edip karıma gelişinizi müjdeleyeceğim. Bunun için, saygıyla izninizi istiyorum.
+  DUNCAN - Benim değerli Cawdorum!
+  MACBETH- (Kendi kendine.) Cumberland Prensi ha! Bu basamağın ya önünde kapaklanmam, yahut üstünden aşmam gerek çünkü yolumu kapıyor. Yıldızlar ateşinizi gizleyin! Işık benim o kapkara isteklerimi görmesin. Göz, eli görmezlikten gelsin, ama yine de, gözün bakmaya korkacağı o iş gerçekleşsin.
+  (Çıkar.)
+  DUNCAN - Haklısın, değerli Banquo, o çok yiğit bir adam. Ona yapılan övgüler beni mutluluğa boğuyor. Bizi karşılamak için bizden önce yola çıktı. Peşinden gidelim. Eşi bulunmaz bir akraba!
+  (Borazanlar çalar, çıkarlar.)
+ 
+  SAHNE V
+ 
+  Inverness, Macbeth'in şatosunda bir oda.
+
+  Bir mektup okuyarak Lady Macbeth girer.
+
+  LADY MACBETH - "Cadılar zafer günü karşıma çıktılar; ölümlülerin bilgisinden üstün bilgileri olduğunu anladım. Onlara daha başka şeyler de sormak için yanıp tutuşuyordum ama havada kaybolup gittiler. Ben şaşkınlıktan dona kalmış dururken kraldan haberciler geldi, beni Cawdor Beyi diye selamladılar. O cadılar da beni bu unvanla selamlamışlar, ilerisi için de bana 'Selam, geleceğin kralı!' demişlerdi. Şan ve şerefte benim en sevgili ortağım, bunu hemen haber vermek istedim, sana sözü verilen şerefli gelecekten habersiz olup sevinmekten yoksun kalmayasın diye. Bunu yüreğinde tut ve hoşçakal!" Hem Glamissin, hem Cawdor; sana söz verilen şey de olacaksın. Ama kişiliğinden korkuyorum: En kestirme yolu tutamayacak kadar insanlık sütüyle beslenmişsin. Yükselmek istiyorsun, içinde tutku yok değil; ama onunla birlikte bulunması gereken kötülük eksik. Gönlünün çektiği yüksekliğe günah işlemeden erişmek istiyorsun; sahtekârlık yapmak istemiyorsun, ama hakkın olmayan yere de sahip olmak istiyorsun. Büyük Glamis, gönlün sana "Dilediğine erişmek istiyorsan böyle yapmalısın; yapmaktan korktuğun, ama yapılmadan bırakılmasını istemediğin şeyi yapmalısın!" diye haykıran sesten yana. Çabuk buraya gel de bütün gücüm söz olup kulaklarına aksın. Senin yazgın olan ve olağanüstü güçlerin de başına geçirmeye yardım ettikleri altın çelenkle arana giren bütün engelleri, dilimin gözüpekliği bir bir devirsin.
+  (Bir haberci girer.)
+  HABERCİ - Kral bu gece buraya geliyor.
+  LADY MACBETH - Çıldırmışsın sen. Efendim onun yanında değil mi? Geliyor olsa, hazırlanalım diye haber verirdi.
+  HABERCİ - Doğru söylüyorum. Efendimiz geliyor; yalnızca arkadaşlarımdan biri ondan çabuk davranmış, geldiği zaman soluğu öyle kesilmişti ki, bu haberden daha fazla bir şey söyleyemedi.
+  LADY MACBETH - Ona iyi bakın, büyük haber getirdi.
+  (Haberci çıkar.)
+  Duncan'ın hisarlarımızdan içeri girişini, uğursuz haykırışlarıyla haber veren kuzgunun bile sesi kısılmış. Kanlı isteklere hizmet eden ruhlar! Gelin beni burada kadınlığımdan sıyırın, tepeden tırnağa, baştan aşağa kıyıcılıkların en korkuncuyla doldurun! Kanımı dondurun, acımanın yolunu tıkayın ki, geçmesin de zaman zaman göndereceği pişmanlık, korkunç kararımı sarsmasın, sonuyla onun arasına girmesin. Ey cinayet elçileri, görünmez cisimlerinizle her nerede hangi varlığa zarar vermeye bakıyorsanız bırakın da buraya, şu kadın göğsüne gelin, sütümü zehire çevirin! Gel karanlık gece, cehennemin en koyu dumanına bürünerek gel ki keskin bıçağım açtığı yarayı görmesin; gök de karanlığı aralayıp bakarak, "Dur! Dur!" diye bağırmasın.
+  (Macbeth girer.)
+  Ulu Glamis! Değerli Cawdor! Gelecekteki şanla her ikisinden de ulu olan Macbeth! Mektupların beni hiçbir şeyden habersiz yaşadığım bugünden alıp yarına götürdü. Şimdi bu anın içinde geleceği duyuyorum.
+  MACBETH - Benim canım sevgilim, bu gece Duncan buraya geliyor.
+  LADY MACBETH - Sonra ne zaman gidiyor?
+  MACBETH - Yarın, niyeti öyle.
+  LADY MACBETH - Hayır! Öyle bir yarını güneş görmeyecek! Yüzünüz, soylu efendim, bir kitap gibidir, onda insanlar garip şeyler okuyabilirler. Zamanı aldatmak için zaman gibi gözükün; gözünüz, eliniz, diliniz hoş geldin desin. Görünüşünüz günahsız bir çiçek olsun, siz onda gizlenen bir yılan. Gelenler için hazırlıklı olmalıyız. Bu gecenin büyük işini bana bırakın. Bu büyük iş, gelecekteki bütün gecelerimize, bütün günlerimize erkin gücünü kazandıracaktır.
+  MACBETH - Bunu sonra görüşürüz.
+  LADY MACBETH - Yalnızca siz rahat görünün, yüzün değişmesi, korkmak demektir. Gerisini bana bırakın.
+  (Çıkarlar.)
+ 
+
+  SAHNE VI
+
+  Inverness. Şatonun önü.
+ 
+  Obualar çalar, meşaleler gözükür. Duncan, Malcolm, Donalbain, Banquo, Lenox, Macduff, Rosse, Angus ve hizmetliler girerler.
+ 
+  DUNCAN - Bu şatonun yeri ne güzel; havası insana ne tatlı, ne hafif geliyor!
+  BANQUO - Şu yaz konuğu, yapılardan ayrılmayan kırlangıcın, sevgili yuvasını burada kurması, gökyüzünün soluğunun ne kadar hoş koktuğunu gösteriyor. Hiçbir çıkıntı, hiçbir saçak, hiçbir payanda, hiçbir uygun köşe yok ki, bu kuş oraya yuvasını asıp yavrularının beşiğini kurmuş olmasın. Dikkat ettim, onlar en çok nerelere geliyorsa, nerelerde yuva yapıyorlarsa, oraların havası çok güzel oluyor.
+  (Lady Macbeth girer.)
+  DUNCAN - Bakın, bakın! Saygıdeğer ev sahibimiz... Peşimizi bırakmayan sevgi, bazen bize elem verir, yük olur, ama yine de ona sevgidir diye şükrederiz. Bunu size şunun için söylüyorum, sizde, katlandığınız sıkıntılara karşılık şükredecek, size yük olduğumuz için bize teşekkür edeceksiniz.
+  LADY MACBETH - Gördüğümüz bütün hizmetler, noktası noktasına iki kez görülse, sonra iki kez daha yinelense gene de siz efendimizin evimize yağdırdığınız onurların büyüklüğü karşısında çok zavallı, çok aciz kalır. Eski, yeni verdiğiniz her şey ve tüm iyilikleriniz için dünyadan elimizi eteğimizi çekip yaşamımızın sonuna kadar size dua etsek yeridir.
+  DUNCAN - Cawdor Beyi nerede? Ardından dolu dizgin geldik, onun öncüsü olmayı istiyorduk. Ama iyi binici; mahmuzu kadar keskin olan büyük sevgisi de ona yardım etti, evine bizden önce ulaştı. Güzel ve soylu ev sahibimiz, bu gece konuğunuzuz..
+  LADY MACBETH - Biz hizmetlileriniz, buyruğumuzda çalışanları, canımızı, varımızı yoğumuzu, efendimiz dilediği anda hesabını vermek ve ona teslim etmek üzere ödünç olarak saklıyoruz.
+  DUNCAN - Elinizi verin, beni efendinize götürün. Kendisini çok seviyoruz, ona vereceklerimiz daha bitmedi. İzninizle ev sahibimiz.
+  (Çıkarlar.)
+
+  SAHNE VII
+
+  Inverness. Şatoda bir oda.
+
+  Macbeth girer.
+
+  MACBETH - Yapmakla olup bitseydi, bu işi bir an önce yapardım. Eğer cinayet başarıyla sonuçlanabilse, bir vuruşta sonuna erişilebilse işin, şuracıkta zamanın şu sığlık kıyısında öbür dünyayı gözden çıkarırdık. Ama bu işlerin hesabını bu dünyada vermeye başlıyoruz: kanlı dersler öğretiyoruz, sonra, bunlar, dönüp öğretenin başına bela kesiliyor; tanrısal adalet içine zehir koyduğumuz kadehi kendi dudaklarımıza sunuyor. Adam burada iki kat güvenlikte: bir kez, ben onun akrabasıyım, hem de uyruğu; bunların ikisi de cinayetin işlenmemesi için gerekli nedenler. Sonra, ev sahibi olarak, değil kendi elimle bıçağı saplamak, onun katiline kapıyı açmamam gerek. Üstelik Duncan gücünü öyle tatlılıkla kullandı, büyük görevini öyle eksiksiz gördü ki onun bu iyilikleri melekler gibi seslerini en yükseğe ulaştırıp ilençleyecektir bu ölümü. Acıma da, yeni doğmuş bir çocuk gibi çırçıplak, kasırganın yelelerinde ya da gökyüzünün küçük melekleri gibi, görünmez soylu atlar üstünde bu korkunç cinayeti her göze üfleyecek; böylece de göz yaşları rüzgârları bastıracaktır. Niyetimin sağrılarını dürtecek mahmuzum yok; yalnızca atın üstüne sıçramaya kalkan tutkum var ki, o da gereğinden fazla sıçrayıp öbür yana düşüyor.
+  (Lady Macbeth girer.)
+  Ne o! Ne haber?
+  LADY MACBETH - Neredeyse yemekten kalkacak. Odadan niye çıktınız?
+  MACBETH - Beni aradı mı?
+  LADY MACBETH - Bilmiyor musunuz, aradı elbet.
+  MACBETH - Bu işte daha ileri gitmeyelim. Beni daha yeni ödüllendirdi; üstelik her sınıf halkın değerli sevgisini de kazandırdı. Bunlar pırıl pırıl, yeniyken giyilecek şeyler, o kadar çabuk bir yana atılacak şeyler değil.
+  LADY MACBETH - Öyleyse kuşandığınız umut, sarhoş muydu? O zamandan bu yana uyudu da şimdi, o kadar gözüpekçe kurduğu düşten korkup uyanıyor. Bundan sonra senin sevgini böyle bileceğim. Dileğinin gerçekleşmesi için yiğitlik gerekiyor. Böyle olmaktan korkuyor musun? Hem yaşamında çok önemli olacak bir şeye sahip olmak isteyeceksin, hem de korkak olacaksın. Atasözündeki, balık yemek isteyen ancak ayaklarını ıslatmaktan korkan zavallı kedi gibi (2) isteği korkuya köle etmek mi istiyorsun?
+  MACBETH - Ne olur yeter! Bir erkeğe yaraşan her şeyi yapmayı göze alırım; ama daha fazlasını göze almak erkeklik değildir.
+  LADY MACBETH - Öyleyse kalkıştığınız bu işi bana haber vermeye sizi zorlayan hangi canavardı? O işi yapmayı göze aldığınız zaman, işte asıl o zaman erkektiniz; erdiğinizden daha fazlasına ermek için daha çok erkeklik göstermeye hazırdınız. O sırada ne zaman uygundu, ne de yer; ama siz ikisini de yaratmaya bakıyordunuz. Onlar kendiliğinden oldu. fakat bu durum sizi, siz olmaktan çıkarttı. Çocuk büyüttüm; insanın meme verdiği yavruya sevgisi ne kadar sevecenlikle doludur biliyorum; ama sizin bu iş için içtiğiniz ant gibi bir ant içmiş olsaydım daha dişleri çıkmamış ağzından memenin başını çeker de onun beynini dağıtırdım.
+  MACBETH - Ya başaramazsak...
+  LADY MACBETH - Başaramazsak mı? Sen sadece gözüpekliğini gergin tut, bak nasıl başarırız. Duncan uykuya dalınca - zaten bütün gün süren yolculuktan yorgun düştüğü için derin bir uykuya dalacaktır - iki oda uşağını öylesine içkiye boğarım ki, beynin bekçisi olan bellek dumana dönüşür, aklın saklandığı kap da boş bir imbik olur. Onlar körkütük sarhoş, ölü domuzlar gibi uyurken kalkansız kalan Duncan'a seninle biz ne isteyip de yapamayız ki? Korkunç cinayeti de sarhoş adamlarına yükleriz.
+  MACBETH - Sen yalnızca erkek çocuk doğur! Çünkü senin korku nedir bilmeyen hamurundan yalnızca erkek ruhlar yoğrulmalı. Odasındaki o iki uyuntunun üstlerini kana bular ve onların hançerlerini kullanırsak işi onların yaptığına herkes kolaylıkla inanır.
+  LADY MACBETH - Ölümü üzerine biz acı cığlıklarıyla haykırınca, kim başka türlü düşünmek cesaretini gösterir ki?
+  MACBETH - Kararımı verdim. Bedenimde ne kadar güç varsa, hepsini bu işe koşacağım. Hadi gidelim, en tatlı bir yüz takınarak zamanla alay edelim. Yalancı gönlün bildiğini, yalancı yüzle gizlemek gerek.
+ 
+
+
+  İKİNCİ PERDE
+ 
+  SAHNE I
+
+  Inverness. Şatoda bir avlu.
+ 
+  Banquo ile elinde bir meşale tutan Fleance girer.
+
+  BANQUO - Gece epeyce ilerledi mi oğlum?
+  FLEANCE - Ay battı; saatin vurduğunu duymadım.
+  BANQUO - Ay on ikide batıyor.
+  FLEANCE - Bana kalırsa vakit daha geç, efendim.
+  BANQUO - Al şu kılıcımı tut. Gök bu gece çok cimrilik ediyor, bütün kandilleri sönük. Şunu da al. Üstümde kurşun gibi bir ağırlık var, ama yine de uyuyamıyorum. İyilik melekleri! İnsan dinlenirken başı boş kalan kötü düşünceleri benden uzak tutun! (Macbeth'le elinde meşale tutan bir hizmetli girer.) Kılıcımı ver. Kim var orada?
+  MACBETH - Bir dost.
+  BANQUO - Siz daha yatmadınız mı efendim? Kral yattı, keyfi pek yerindeydi, adamlarınıza pek çok bahşiş gönderdi. Eşinize de bulunmaz ev sahipliği için bu elması yolladı. Ölçülmeyecek kadar mutlu olduğunu söyledi.
+  MACBETH - Hazırlıksız olduğumuz için istediğimiz gibi ağırlayamadık, hizmette kusur ettik, yoksa daha iyi ağırlardık.
+  BANQUO - Her şey yolundaydı.. O üç cadıyı dün gece düşümde gördüm. Size söyledikleri oldukça doğru çıktı.
+  MACBETH - Anımsamıyorum bile. Ama bir boş zaman bulursak onun hakkında konuşalım, zaman ayırmak isterseniz elbet.
+  BANQUO - Siz ne zaman isterseniz.
+  MACBETH - Sırası gelince benim sözümü benimserseniz onur ve saygınlık kazanırsınız.
+  BANQUO - Kazanacağım derken yitirmeyeyim de. Vicdanım özgür, bağlılığım dürüst kalmak üzere öğüt dinlerim.
+  MACBETH - Şimdilik iyi dinlenmenizi dilerim!
+  BANQUO - Teşekkür ederim efendim; ben de size.
+  (Banquo ile Fleance çıkarlar.)
+  MACBETH - Git, hanımına söyle: içkim hazır olunca çanı çalsın. Sen de git yat.
+  (Hizmetli çıkar.)
+  Şu önümde gördüğüm bir hançer mi? Kabzası da elime doğru çevrilmiş. Gel, yakalayayım seni. Ele geçmiyorsun, ama seni hâlâ görüyorum. Uğursuz hayal, gözle görülür de elle tutulmaz mısın? Yoksa, ateş içinde yanan kafamın uydurduğu bir hayal misin? Seni hâlâ görüyorum, tutulacak gibisin, tıpkı şu kınından sıyırdığım hançer gibi. Bana gideceğim yolu gösteriyorsun, kullanacağım silahın eşini. Gözlerim ya tüm duygularımla eğleniyor ya da bu görüntünün değeri hepsine bedel. Seni hâlâ görüyorum. Hem üstünde, hem sapında kan damlaları var; demin yoktu. Yok öyle hançer filan, yok. Gözlerimi o kanlı iş etkiliyor. Şimdi dünyanın yarı yüzünde doğa ölmüş gibi; perdelenmiş uykuyu kötü düşler bozuyor; büyücüler ayindeler; solgun yüzlü Hecate'ye sunacaklarını sunuyorlar. Bekçisi kurdun ulumasından zamanın geldiğini öğrenen iskelet yüzlü cinayet, hırsız Tarquinius'un sessiz ve hızlı adımlarıyla hedefine doğru bir hortlak gibi ilerliyor. Sen de sağlam ve sert toprak, adımlarımın sesini duyma, ne yana gittiklerini bilme; taşların, nerede olduğumu haber veremesin...Olmasın bunlar ki, bu dehşet anı, çok yakıştığı korkunç olaydan kopmasın. Kötülüğüm dilde kaldıkça o yaşayacak. Söz, insanda iş yapmak ateşini söndürüyor.
+  (Çan çalar.)
+  Gidiyorum, bu iş oldu demektir. Çan beni çağırıyor. Onu sen duyma Duncan; çünkü o seni ya cennete, ya cehenneme çağıran ölüm çanıdır.
+  (Çıkar.)
+ 
+
+  SAHNE II
+
+  Şatoda bir avlu.
+ 
+  Lady Macbeth girer.
+
+  LADY MACBETH - Onları sarhoş eden beni yüreklendirdi; onların kanını uyuşturan beni ateşlendirdi. O ne! Hişşş! Haykıran baykuştu, en acı sesiyle iyi geceler diyen o uğursuz zangoç! İşe koyulmuştur, kapılar açık; sarhoş uşaklar da horlayarak görevleriyle alay ediyorlar; içkilerine ilaç karıştırdım, şimdi ölümle yaşam onlar için, yaşasınlar mı ölsünler mi diye çekişmekte.
+  MACBETH, içeriden - Kim var orada? Hey!
+  LADY MACBETH - Eyvah! Korkarım ki uyandılar, iş bozuldu. Bu cinayetin işlenmesi değil, yarıda kalması yok eder bizi. O ne? Hançerlerini hazır bırakmıştım, bulmamış olamaz. Uyurken görünüşü babamı andırmasaydı kendim öldürecektim.
+  (Macbeth girer)
+  Kocammış!
+  MACBETH - İşi bitirdim. Bir gürültü işittin mi?
+  LADY MACBETH - Baykuşun haykırdığını işittim, bir de çekirgelerin öttüğünü. Sen seslenmedin mi?
+  MACBETH - Ne zaman?
+  LADY MACBETH - Demin.
+  MACBETH - İnerken mi?
+  LADY MACBETH - Evet.
+  MACBETH - Dinle! Öbür odada kim yatıyor.
+  LADY MACBETH - Donalbain.
+  MACBETH - Ellerime bak, korkunç.
+  LADY MACBETH - Korkunç demek çok garip.
+  MACBETH - Biri uykusunda güldü, biri "Cinayet!" diye haykırdı, birbirlerini uyandırdılar. Durup onları dinledim: yalnızca dua ettiler, sonra yine uykuya daldılar. Odada iki kişiler.
+  LADY MACBETH - İkisi yan yana yatıyorlardı.
+  MACBETH - Sanki benim bu cellat ellerimi görmüş gibi biri "Tanrı bizi korusun!" dedi, öbürü de "Amin!" dedi. Korkularını dinlerken "Tanrı bizi korusun!" dedikleri vakit "Amin!" diyemedim.
+  LADY MACBETH - Olayı o kadar derin düşünme.
+  MACBETH - Ama neden "Amin!" diyemedim? Tanrı'nın yardımına en gerek duyduğum anda "Amin!" sözü boğazımda düğümlendi kaldı.
+  LADY MACBETH - Böyle işlerde bu tür düşünmek yanlış; yoksa insan aklını oynatır.
+  MACBETH - Bana öyle geldi ki bir ses "Artık uyumayın, Macbeth uykuyu öldürüyor!" diye bağırdı. Masum uyku; cefa tarazlarını düzelten, her günün yaşamını sona erdiren uyku, sıkıntıların, güçlüklerin yıkanıp yorgunluk giderdiği su, zihin yaralarına şifa olan merhem, doğanın en büyük ikramı, yaşam denen ziyafetin baş yemeği....
+  LADY MACBETH - Ne demek istiyorsun?
+  MACBETH - Ses uyuyanların hepsine, durmadan "uyumayın!" diye bağırıyordu, "Glamis uykuyu öldürdü, onun için Cawdor bir daha uyumayacak!"
+  LADY MACBETH - Böyle bağıran kimdi? Değerli efendimiz, bu kadar sakat düşüncelerle soylu gücünüzü zayıf düşürüyorsunuz. Gidin, biraz su bulun, yıkayın da şu pis kanıt elinizden çıksın. Bu hançerleri odadan niye getirdiniz? Orada kalmaları gerek. Gidin, onları götürün, uyuyan uşakların yüzüne de kan bulaştırın.
+  MACBETH - Bir daha gitmem; yaptığım işi düşünmekten bile korkuyorum. Ona bir daha bakmaya hiç cesaretim yok.
+  LADY MACBETH - Kararda direnmemek ha! Hançerleri bana verin. Uyuyan insanlar ve ölüler resimden başka bir şey değildir; şeytanın resmi de ancak çocukların gözünü korkutur. Eğer yarası hâlâ kanıyorsa kanını alır uşakların yüzüne sürerim; cinayet onların işiymiş gibi görünmeli.
+  (Çıkar. İçerden kapı vurulur.)
+  MACBETH - Neresi vuruluyor? Bana ne oldu ki, en küçük bir gürültüden dehşete düşüyorum? Bu eller ne böyle? Ah, gözlerimi oyuyorlar. Acaba bütün okyanusların suyu elimi bu kandan temizler mi? Hayır; belki de şu elim sonsuz denizleri kana çevirir, yeşil renklerini baştan başa kızıla boyar.
+  (Lady Macbeth yine girer.)
+  LADY MACBETH - İşte, benim ellerim de sizinkinin renginde; ama ben sizin kadar korkaklık etmeye utanırım.
+  (Kapı vurulur.)
+  Güney kapısı vuruluyor. Odamıza gidelim. Bir parça su bu işten bizi temizler: O zaman bakın nasıl her şey kolay görünecek! Kararlılığınız biraz gevşedi o kadar.
+  (Kapı vurulur.)
+  Bakın yine vuruluyor. Geceliğinizi giyin; belki çağrılırız da yatmadığımız belli olur. Kendinizi öyle düşüncelere kaptırmayın.
+  MACBETH - Yaptığım işi bilmektense, kendimi bilmemek daha iyi olurdu.
+  (Kapı vurulur.)
+  Vur, vur da Duncan'ı uyandır! Keşke uyandırabilsen!
+  (Çıkarlar.)
+
+  SAHNE III
+
+  Şatoda bir avlu.
+
+  Bir kapıcı girer. Kapı vurulur.
+
+  KAPICI - Amma da vuruluyor ha! İnsan cehennem kapıcısı olsa kapı açıp kapamaktan bir hal olacak. (Kapı vurulur.) Tak tak tak! İblis hakkı için söyleyin, kimmiş gelen? İşte bir çiftçi, bolluk olacak diye kendini asmış. Tam zamanını seçmişsin, yanında mendilin çok olsun: burada iyice terleyeceksin. (Kapı vurulur.) Tak, tak! Kimmiş gelen? Öbür şeytanın hakkı için söylesin. İşte bir ikiyüzlü, terazinin iki kafesi için de ant içebilir. Tanrı adına az kötülük etmemiş, ama Tanrı'nın kendisine iki yüzlülük edememiş. Oo, buyurun iki yüzlü efendim! (Kapı vurulur.) Tak, tak, tak! O da kim? Ha, işte bir İngiliz terzi, Fransız biçimi o daracık dizlikleri biçerken kumaş çaldı diye buraya gelmiş. (3) Buyurun terzi başı! Gelin de isterseniz burada kaz kızartın. (Kapı vurulur.) Tak, tak, tak! Hiç durmak bilmez! Sen kimsin? Ama burası cehennem olmak için çok soğuk. Artık şeytana kapıcılık edecek değilim: Çiçekli yoldan geçerek cehennem ateşine giden her meslekten birini içeri alayım demiştim.
+  (Kapı vurulur.)
+  Peki, peki. Ne olur kapıcıyı unutmayın.
+  (Kapı açılır. Macduff ile Lenox girer.)
+  MACDUFF - Dün akşam o kadar geç mi yattın ki hâlâ kalkmamışsın, arkadaş?
+  KAPICI - Doğrusu efendim, gece yarısından sonralara kadar içip eğlendik. İçki de efendim üç şeyi harekete getirmekte yamandır.
+  MACDUFF - İçkinin yaman harekete getirdiği o üç şey neymiş bakalım?
+  KAPICI - Ne olacak efendim; burun kızartır, uyutur, işetir. Şehveti, efendim, hem harekete getirir, hem hareketten alıkoyar. İnsanda istek uyandırır, ama iş becerecek güç bırakmaz. Onun için içki zamparaya ikiyüzlülük eder denebilir. Onu öyle eden de odur, öyle olmaktan çıkaran da; ona: "Haydi!" der, sonra da durdurur. Onu hem kandırır, hem de cesaretini kırar; hem davrandırır, hem de davrandıramaz. Sözün kısası, uykuda onunla iki anlamlı laf eder, sonra sızdırıp bırakır.
+  MACDUFF - Galiba içki dün gece seni de sızdırdı?
+  KAPICI - Sızdırmaz olur mu efendim, imanıma kadar. Ama ben de onunla ödeştim. Hem sanırım ondan güçlü de çıktım: o ayaklarımı tutmaz bir duruma soktu, ama ben de şöyle bir kımıldanıp onu içimden boşaltıverdim.
+  MACDUFF - Efendin kalktı mı?
+  (Macbeth girer.)
+  Kapıyı vuruşumuz onu uyandırmış; işte geliyor.
+  LENOX - Günaydın soylu Macbeth!
+  MACBETH - İkinize de günaydın.
+  MACDUFF - Kral kalktı mı, değerli soylu?
+  MACBETH - Daha kalkmadı.
+  MACDUFF - Sabah erkenden gelip onu görmemi buyurmuştu; geç bile kaldım.
+  MACBETH - Kendisine götüreyim sizi.
+  MACDUFF - Size zahmet olacak ama biliyorum, bu zahmet sizi mutlu edecektir.
+  MACBETH - İnsan bir işten zevk alıyorsa zahmet olmaz. Kapısı şurada.
+  MACDUFF - Gir demese de girmem gerek, bana verilmiş bir görev bu.
+  (Çıkar.)
+  LENOX - Kral bugün gidiyor mu?
+  MACBETH - Gidiyor. öyle kararlaştırdı.
+  LENOX - Gece kıyametler koptu: bizim olduğumuz yerde bacalar yıkılıp devrildi; sonra, derler ya havada hıçkırıklar duyuldu: garip ölüm çığlıkları, yakında dertli günlere yaraşır büyük kargaşalıklar ve büyük bir yangın çıkacağını haber veren korkunç sözler. Gece kuşu bütün gece haykırdı. Dediklerine göre, toprağın da nöbeti tutmuş, hep titremiş.
+  MACBETH - Fırtınalı bir geceydi.
+  LENOX - Ben, böyle bir gece daha gördüğümü anımsamıyorum.
+  (Macduff yine girer.)
+  MACDUFF - Ah, yıkım, yıkım! Seni anlatmaya ne dil katlanır, ne gönül dayanır!
+  MACBETH ve LENOX - Ne oldu ki?
+  MACDUFF - Olabilecek şeylerin en kötüsü bu. Alçakça bir cinayet. Tanrı'nın kutsal tapınağına zorla girilip canı alınmış içinden.
+  MACBETH - Ne dediniz? Canı mı? Kimin canı?
+  LENOX - Hükümdarımızın mı demek istiyorsunuz?
+  MACDUFF - Odaya gidin bakın da gözleriniz yılan saçlı Gorgon'u (4) görmüş gibi taş kesilsin. Beni konuşturmayın. Görün de söyleneceği kendiniz söylersiniz.
+  (Macbeth'le Lenox çıkarlar.)
+  Uyanın, uyanın! Tehlike var, çanlar çalsın! Cinayet, cinayet! Banquo, Donalbain, Malcolm! Uyanın. Üstünüzdeki kuş tüyünden uykuyu, ölümün o taklidini silkip atın da ölümle yüz yüze gelin! Kalkın, kalkın da büyük kıyametin resmini görün! Malcolm! Banquo! Mezarlarınızdan kalkar gibi kalkın. Ruhlar gibi yürüyün ki bu yıkımı karşılayabilesiniz! Çalın çanı.
+  (Çan çalar. Lady Macbeth girer.)
+  LADY MACBETH - Ne oluyor. Bu iğrenç çan sesi bütün uyuyanları uyandırıyor. Söyleyin ne oluyor.
+  MACDUFF - Ah iyi yürekli efendim, söyleyeceğim şey var, ama bu sizin işiteceğiniz şeylerden değil. Yinelenmesi kadın kulağı için öldürücü olur.
+  (Banquo girer.)
+  Ah! Banquo, Banquo! Hükümdar efendimiz öldürülmüş!..
+  LADY MACBETH - Eyvahlar olsun! Ne? Bizim evimizde ha!
+  BANQUO - Nerede olursa olsun acımasızca bir iş bu! Duff'cığım, ne olur, sözlerim yalan de, öyle değil de.
+  (Macbeth ile Lenox yeniden girerler.)
+  MACBETH - Bu işten bir saat önce ölmüş olsaydım, mutlu bir ömür sürmüş olurdum; çünkü şu andan sonra yaşamanın önemi kalmadı. Her şey boş, her şey bir oyuncak artık. Büyüklük, kibarlık öldü; yaşamın şarabı süzüldü, bu kubbeye, övünmek için yalnızca tortusu kaldı.
+  (Malcolm'la Donalbain girer.)
+  DONALBAİN - Bir şey mi oldu?
+  MACBETH - Olan size oldu da haberiniz yok: kanımızın geldiği yer, kaynağı, pınarı kurudu; ta başlangıç noktasından kesildi.
+  MACDUFF - Hükümdar babanız öldürüldü.
+  MALCOLM - Ne, kimin eliyle?
+  LENOX - Anlaşılan odasındakiler yapmış; elleriyle yüzleri kan içindeydi; hançerleri de öyleydi, silmemişler bile, yastıklarının üstünde öylece durur bulduk. Gözlerini açıp sersem sersem baktılar, kendilerinden geçmişlerdi; onlara kimsenin canını emanet etmek doğru değildi.
+  MACBETH - Ah yine de öfkelenip onları öldürdüğüme pişmanım.
+  MACDUFF - Bu işi ne diye yaptınız?
+  MACBETH - Hangi insan aynı anda hem aklı başında hem şaşkın; hem öfkeli, hem dingin; hem gönülden bağlı, hem ilgisiz olabilir? Hiç kimse. Coşkun sevgimin hızı oyalanan aklımı geride bıraktı. Şurada Duncan uzanmış yatıyordu: gümüş teni, altın kanıyla işlenmiş; hançer yaraları, yıkıntıların ıssız kapılarından geçmek için doğada açılmış gedikler gibiydi. Ötede katiller mesleklerinin rengine bulanmış, hançerleri kabzalarına kadar kan içinde. Sevecek bir yüreği, o yürekte de sevgisini gösterecek kadar cesareti olan hangi insan kendini tutabilirdi ki?
+  LADY MACBETH - Aman, bana yardım edin de buradan gideyim!
+  MACDUFF - Lady'ye bakın.
+  MALCOLM, yavaşça Donalbain'e. - En çok bizi ilgilendirmesi gereken bu olayda neden dilimiz bağlandı?
+  DONALBAİN, yavaşça Malcolm'a - Burada yazgımız bir iğne deliğine gizlenmiş, üstümüze atılmaya hazır dururken, ne diyebiliriz ki? Haydi gidelim: göz yaşlarımızı akıtma zamanı değil.
+  MALCOLM, yavaşça Donalbain'e. - Ne de büyük acımızı ortaya dökecek zaman bu.
+  BANQUO - Lady'ye bakın.
+  (Lady Macbeth dışarı götürülür.)
+  Biz de açıkta kalmaktan rahatsızlık duyan şu çıplak zavallılığımızı örtüp toparlandıktan sonra buluşalım da bu görülmemiş kanlı olayı görüşüp daha fazla bir şeyler öğrenelim. Korkular, endişelerle titriyoruz. Kendi hesabıma ben Tanrı'nın yüce elindeyim; oradan ihanet dolu kötülüğün gizli amaçlarına savaş açıyorum.
+  MACDUFF - Ben de öyle.
+  HEPSİ - Hepimiz de.
+  MACBETH - Çabuk erkekçe giyinip kuşanalım da avluda buluşalım.
+  HEPSİ - İyi olur.
+  (Hepsi çıkarlar, yalnızca Malcolm ile Donalbain kalır.)
+  MALCOLM - Sen ne yapacaksın? Onlarla birlik olmayalım. Duymadıkları acıyı duyar görünmeleri kolay bir iş. Ben İngiltere'ye gideceğim.
+  DONALBAİN - Ben de İrlanda'ya. Yollarımızın ayrılması ikimiz için de iyi olur. Bulunduğumuz yerde insanların gülüşünde hançerler gizli. Kanımıza en yakın olanlar kanımıza o kadar susamışlar.
+  MALCOLM - Atılan bu öldürücü ok, henüz yerini bulmadı; bizim için en güvenli yol hedeften uzak kalmaktır. Onun için haydi atlara. Hem ayrılırken nazik olup esenleşmeye bakmayalım. Hemen gidelim. Acımanın kalmadığı yerden sıvışmak uygundur.
+  (Çıkarlar.)
+
+  SAHNE IV
+ 
+  Şatonun dışı
+
+  Rosse ile bir yaşlı girer.
+ 
+  YAŞLI - Yetmiş yıldır yaşananları iyi anımsarım. Onca zaman ne korkulu saatler geçirdim, ne olmadık şeyler gördüm, ama bu korkunç gecenin yanında bütün o gördüklerim hiç kalıyor.
+  ROSSE - Ah babacığım; görüyorsun, insanoğlunun ettiklerine kızan gökler onun kanlı sahnesine öfke yağdırıyorlar. Saate bakılırsa gündüz, ama güneşi boğuyor. Yeryüzünü canlı ışık öpecekken, karanlığın onu mezara sokması, gecenin üstünlüğünden mi, yoksa gündüzün utancından mıdır.
+  YAŞLI - Doğaya aykırı: tıpkı yapılan iş gibi. Geçen salı, bir şahin gururla yükseklerde uçarken, fareyle beslenen bir baykuşa av olup öldürülmüş.
+  ROSSE - Çok garip, ama doğru bir şey daha: Duncan'ın atları, o güzel rüzgâr gibi atlar, at türünün o en seçkin örnekleri azıttılar, ahırlarının kapısını kırıp kaçtılar, sanki insanlarla savaşa girmek istiyorlarmış gibi söz dinlemez oldular.
+  YAŞLI - Diyorlar ki, birbirini yemişler.
+  (Macduff girer.)
+  ROSSE - Yediler ya; kendi gözlerimle gördüm de şaşıp kaldım. İşte iyi Macduff geliyor.
+  İşler nasıl gidiyor, efendim?
+  MACDUFF - Görmüyor musunuz, olanlar oldu.
+  ROSSE - Bu yalnızca kanlı değil, kanlı olmaktan da kötü işi kim yapmış, anlaşıldı mı?
+  MACDUFF - Macbeth'in öldürdüğü adamlar.
+  ROSSE - Ah, ah! Ne çıkar umdular ki?
+  MACDUFF - Bu işe kışkırtılmışlar. Kralın oğulları, Malcolm'la Donalbain kaçıp gitmişler; bu durum kuşkuyu üstlerine çekiyor.
+  ROSSE - Yine olmayacak bir şey: kendi can kaynağını ortadan yok eden tutkunun gözü dönmüş anlaşılan. Bu durumda hükümdarlık herhalde Macbeth'e düşecek.
+  MACDUFF - Hükümdar sanını aldı bile, şimdi taç giymeye Scone'a gitti.
+  ROSSE - Duncan'ın ölüsü nerede?
+  MACDUFF - Colmekill'e götürüldü. Kendisinden önceki kralların türbesidir, hepsinin kemikleri orada.
+  ROSSE - Scone'a gidecek misiniz?
+  MACDUFF - Hayır kardeşim, Fife'a gidiyorum.
+  ROSSE - Ben gideceğim.
+  MACDUFF - Eh, Tanrı vere orada her şey yolunda gitse. Uğurlar olsun! Yeni giysilerimiz eskisini aratmasın da!
+  ROSSE - Hoşça kal, babacığım.
+  YAŞLI - Tanrı iyiliklerini senin de, kötüyü iyi, düşmanı dost edenlerin de üstünden eksik etmesin.(Çıkarlar.)
+  ÜÇÜNCÜ PERDE
+ 
+
+  SAHNE I
+ 
+  Fores. Sarayda bir oda.
+
+  Banquo girer.
+
+  BANQUO - İşte artık cadıların dediği her şeye eriştin: Cawdor, Glamis ve kral oldun. Bu uğurda da korkarım ki çok kötü bir oyun çevirdin. Ama dediklerine göre, senin soyuna bir şey kalmayacaktı; nice hükümdarlara kök ve ata ben olacaktım. Onların söyledikleri doğru çıkıyorsa ki seninkiler doğru çıktı, neden bu benim için umut olmasın? Ama şimdilik susmam gerek.
+  (Borazan çalar. Kral kılığında Macbeth, kraliçe
+  kılığında Lady Macbeth, Lenox, Rosse, beyler ve
+  hizmetliler girer)
+  MACBETH - Baş konuğumuz işte.
+  LADY MACBETH - Eğer unutulmuş olsaydı şölenimizde büyük bir boşluk kalmış olurdu, hiç yakışık almazdı.
+  MACBETH - Bu akşam resmi bir yemek veriyoruz efendim, sizin de bulunmanızı isteyeceğim.
+  BANQUO - Efendimiz, bana buyursunlar, sonuna kadar en kopmaz bağla ona bağlanmak görevimdir.
+  MACBETH - Bugün öğleden sonra atla bir yere mi gidiyorsunuz?
+  BANQUO - Evet, iyi efendimiz.
+  MACBETH - Gitmeseydiniz bu günkü toplantı sırasında düşüncelerinizi öğrenmek isterdik. Onlar her zaman doğru çıkmıştır; ama yarın öğreniriz. Uzağa mı gidiyorsunuz?
+  BANQUO - Bu saatle akşam yemeği arasını dolduracak kadar uzağa, efendimiz. Atım hızlı gitmezse geceden de bir iki saat ödünç alırım.
+  MACBETH - Şölenimizde bulunmamazlık etmeyin.
+  BANQUO - Etmem, efendimiz.
+  MACBETH - Duyduk ki eli kanlı yakınlarımız İngiltere'ye ve İrlanda'ya yerleşmişler. Babalarını nasıl haince öldürdüklerini gizliyor, kendilerini dinleyenlere olmayacak uydurma şeyler anlatıyorlarmış. Ama bu konu yarına kalsın, zaten herkesle birlikte görüşülmesi gereken şeyler var. Siz hemen atınıza atlayın; akşam dönüşünüze kadar hoşça kalın. Fleance da sizinle gidiyor mu?
+  BANQUO - Evet, iyi efendimiz, zamanımız pek kalmadı.
+  MACBETH - Atlarınızın, ayakları hiç şaşmadan, tez gitmesini dilerim; sizi de onların sırtına emanet ederim. Güle güle.
+  (Banquo çıkar)
+  Herkes akşamın yedisine kadar zamanını istediği gibi geçirsin ki, buluşmak daha tatlı gelsin: yemeğe kadar biz de kendi kendimize kalacağız: şimdilik, Tanrı'ya emanet olun.
+  (Lady Macbeth, beyler ve diğerleri çıkar.)
+  Hey, sana bir diyeceğim var. O adamlar buyruğumuzu bekliyorlar mı?
+  HİZMETLİ - Saray kapısının dışındalar efendimiz.
+  MACBETH - Buraya getir.
+  (Hizmetli Çıkar)
+  Güvenlikte olmadıkça hükümdar olmak neye yarar. Banquo'dan korkumuzun kökleri derinde. Onun, yaratılıştan hükümdarca bir yanı var ki bu korku verici. Fazla korkusuz: O korkusuzluğunun yanında yiğitliğine rehberlik eden bir de aklı var, akılsızca bir iş yapmıyor. Varlığından korku duyduğum bir o var: yanında oldum mu zekâm siniveriyor sanki. Dediklerine göre Antonius da Caesar'ın yanında böyle olurmuş. Bana hükümdarlığı kondurdukları zaman cadılara çıkıştı, kendisine de bir şey söylemelerini buyurdu. O zaman, geleceği görenler onu hükümdar soyuna ata olacak diye selamladılar. Benim başıma meyvasız bir taç oturttular, elime kısır bir asa tutuşturdular, onu benden olmayan bir el çekip alacak, yerime kendi oğlum geçmeyecek. Öyleyse kendimi Banquo'nun soyu için kirlettim; iyiliksever Duncan'ı onlar için öldürdüm; gönlümü, yalnızca onlar için erinç yerine kinle doldurdum; ölümsüz ruh mücevherimi, onlar kral olsun, Banquo tohumu kral olsun diye şeytana sattım ha! Öyle olacağına, gel de, ey talih, er meydanına, sonuna kadar benimle dövüş. Kim var orada?
+  (Hizmetli, yanında iki katille yeniden girer.)
+  Haydi, kapıya git, biz çağırıncaya kadar orada bekle.
+  (Hizmetli çıkar.)
+  Dün konuşmuştuk, değil mi?
+  BİRİNCİ KATİL - Evet, dündü efendimiz.
+  MACBEHT - Pekâlâ, dediklerim üzerinde düşündünüz mü bakalım? Bilin ki geçmiş günlerde size o derece kötülük eden oydu; sizse her şeyi, hiçbir günahımız olmadığı halde bizden bilmişsiniz. Geçen görüşmemizde bunu size açıkça anlattım; nasıl oyuncak edildiğinizi bir bir gösterdim. Sizi kimin, nasıl, hangi yollarla aldattığını kanıtladım. Bunlardan başka daha öyle şeyler var ki, geri zekâlılar bile "Banquo'dur bunları yapan!" der.
+  BİRİNCİ KATİL - Evet, bize bütün bunları anlattınız.
+  MACBETH - Anlattım; ancak daha da ileri gidiyorum, bu ikinci buluşmamızın nedeni de bu. Nasıl bir sabırla yaratılmışsınız ki bütün bunlara aldırmadan, olanları unutup gidiyorsunuz? Siz evliya mısınız ki, ağır eliyle sizi mezara sürükleyen, çocuklarınızı kurtulmamacasına yoksul bırakan bu insanın soyu sopu için dua edeceksiniz?
+  BİRİNCİ KATİL - Yok elbet, biz de insanız, efendimiz.
+  MACBETH - Evet sayımdan yana insansınız, tıpkı zağarların, tazıların, yarı kurtların, melezlerin, finoların, itlerin, çomarların, hepsinin de köpek diye anıldığı gibi. Ancak bunların fiyatlarını gösteren liste, tezini, yavaşını, kurnazını, bekçisini, avcısını ayırt eder; her birini, bereketli doğada ne niteliklerle yaratılmışsa, ona göre sıralar. Böylece hepsi kendine özel bir ad alır. İnsanlar için de böyledir. Şimdi, sıralamada sizin de kendinize özel bir yeriniz varsa, bu yer en aşağılarda, en kötü insanlar arasında değilse, bunu söyleyin bana. O zaman ben de sizlere öyle bir iş veririm ki, onun başarılması düşmanımızı ortadan kaldırır; sizi sevgimize, gönlümüze perçinler. Çünkü o yaşadıkça hasta olacağız; sağlığımıza ancak onun ölümüyle kavuşacağız.
+  İKİNCİ KATİL - Efendimiz, ben yaşamın acımasız silleleriyle öyle çileden çıkmışım ki feleğe inat ne olsa aldırmam, yaparım.
+  BİRİNCİ KATİL - Ben de yıkımlardan öyle bezmiş, bahtın elinde öyle hırpalanmışım ki, ya batayım ya çıkayım diye her şeyi göze alırım.
+  MACBETH - İkiniz de biliyorsunuz ki, Banquo düşmanınızdır.
+  İKİNCİ KATİL - Doğru, efendimiz.
+  MACBETH - Benim de düşmanım; hem aramızdaki kanlı düşmanlık öyle ki onun sağ geçen her dakikası beni can evimden hançerliyor. Gerçi onu ulu orta yok edebilirim ve bunda haklı olduğumu da gösterebilirim, ama yapamıyorum; hem ona, hem bana dost olan bazı kimseler var ki, onların sevgilerinden vazgeçemem; onun için, yere vurmak istediğim adamın düşüşüne acıyor gözükmem gerek. Bunun için sizin yardımınıza başvuruyorum, söylediğim birçok önemli neden yüzünden işi herkesin gözünden gizliyorum.
+  İKİNCİ KATİL - Bize buyurduğunuz şeyi yerine getireceğiz, efendimiz.
+  BİRİNCİ KATİL - Hatta yaşamımız pahasına...
+  MACBETH - Yürekli olduğunuz yüzünüzden okunuyor. En geç bir saat içinde, nerede pusu kuracağınızı söylerim, tam tamına zamanını bildiririm; çünkü iş bu gece yapılmalı, hem de saraydan biraz uzakta: unutmamalısınız ki, bana söz gelmesini istemiyorum. İşte bir takıntı, bir pürüz bırakmamak için yanında bulunan oğlu Fleance da o karanlık yazgı anını paylaşmalı. Onun yokluğu da benim için, babasınınki kadar gerekli. Gidin, kendi aranızda kararınızı verin; ben de birazdan gelirim.
+  İKİNCİ KATİL - Biz kararımızı verdik, efendimiz.
+  MACBETH - Ben şimdi gelirim, içerde bekleyin.
+  (Katiller çıkar.)
+  Kurgu tamam. Banquo, ruhun cennetlikse bu gece orda olacak.
+  (Çıkar.)
+ 
+
+  SAHNE II
+ 
+
+  Saray. Bir başka oda.
+ 
+
+  Lady Macbeth bir hizmetliyle girer.
+ 
+
+  LADY MACBETH - Banquo saraydan gitti mi?
+  HİZMETLİ - Evet efendim, ama bu gece yine dönüyor.
+  LADY MACBETH - Krala söyle, birkaç dakikasını almak üzere boş bir zamanını beklemekteyim.
+  HİZMETLİ - Baş üstüne, efendim.
+  (Çıkar.)
+  LADY MACBETH - İstediklerimize eriştiğimizde gönül rahatlığıyla bir sevinç duyamıyorsak hiç bir şey kazanılmamış, her şey yitirilmiş demektir. Yıkıp yok ederek yaşamaya çalışmaktansa, yok ettiğimiz şey olmak daha rahat olurdu.
+  (Macbeth girer.)
+  Ne oluyor, efendimiz? Niçin hep yalnızsınız, kendinize en sıkıntılı düşünceleri yoldaş ediyor, ölenle birlikte ölmeleri gereken o düşüncelerden ayrılmıyorsunuz? Şifası bulunmayan şeyleri tasa etmemeli: Olan oldu.
+  MACBETH - Biz yılanı şöyle bir kestik, öldürmedik; yarası kapanacak, yine eski durumunu alacak; Zavallı kötülüğümüz de eskisi gibi ona yem olacak. Ama bir lokmamızı korku içinde yiyip her gece bizi sarsan bu düşlerin derdine katlanarak uyuyacağımıza, varsın her şey çığrından çıksın; iki dünyada da rahat kalmasın. Beynimizin işkencesi altında kıvranmaktansa, kendi rahatımız için öldürdüklerimizle birlikte olmak daha iyidir. Duncan mezarında; yaşamın humma nöbetinden sonra iyi uyuyor; hainlik, yapacağı kadarını yaptı ona; artık onu ne silah, ne zehir, ne içerdeki düşmanları, ne düşman orduları, ne de başka bir şey etkiler.
+  LADY MACBETH - Gelin, benim sevgili efendim, o huysuz bakışlarınız yatışsın, bu gece konuklarınız arasında canlı ve neşeli olun.
+  MACBETH - Olacağım, güzelim; ne olur, sen de öyle ol. Banquo'yu hiç unutma; hem bakışlarınla, hem sözlerinle ona en büyük saygıyı göster; güven içinde olmadığımız için onlara davranışlarımızı övgü sularında yıkamak, yüreğimizi olduğu gibi göstermeyip yüzümüzün maskesi ardına gizlemek gerek.
+  LADY MACBETH - Bu düşünceleri bırakmalısın.
+  MACBETH - Ah, kafam binbir akreple dolu, karıcığım! Biliyorsun ki, Banquo da, onun Fleance'ı da sağ.
+  LADY MACBETH - Evet, ama onlara ölümsüzlük senedi verilmedi ya!
+  MACBETH - Umudumuz kesilmiş değil henüz: saldırıya uğrayabilirler. Onun için keyifli ol. Yarasa dehlizlerde uçuşmaya başlamadan, kara Hecate'nin buyruğu diye gübre böceği, uyuntu sesiyle gecenin uykulu uğultusunu çevreye yaymadan, korkunç bir biçimde yankılanacak bir iş görülecektir.
+  LADY MACBETH - Nasıl bir iş?
+  MACBETH - İş bitip alkışlamana sıra gelinceye kadar haberin olmasın, sen günahsız kal yavrucuğum. Gel, gözleri bağlayan gece, iyi yürekli gündüzün gözlerine perde ol, sonra o görünmez ve kanlı ellerinle, beni korkudan titreten o yazgıyı, o ulu antlaşmayı geçersiz kıl, yırt at! Karanlık çöküyor, karga, kuzguni ormana doğru havalanıyor; gündüzün iyileri başlarını eğip uyuklamaya başlıyorlar, gecenin kara tazıları avlarına atılmak üzereler. Sözlerime şaşırıyorsun, ama acele etme; kötü başlayan şeyler kötülükle güçlenirler. Böyle işte, haydi kuzum, benimle gel.
+  (Çıkarlar.)
+ 
+
+ 
+
+  SAHNE III
+ 
+
+  Saray. Bir park ve saraya giden bir yol.
+ 
+
+  Üç katil girer.
+ 
+
+  BİRİNCİ KATİL - Peki, ama bize katılmanı sana kim söyledi?
+  ÜÇÜNCÜ KATİL - Macbeth.
+  İKİNCİ KATİL - Kuşku duyacağımız biri değil, baksana görevlerimizi, yapacağımız her şeyi biliyor.
+  BİRİNCİ KATİL - Öyleyse bizimle kal. Batıda daha bir iki çizgi gün ışığı pırıldıyor. Bu saatte yolda kalan yolcu, zamanında hana ulaşmak için, atını mahmuzlar. Bizim beklediğimiz de neredeyse gelir.
+  ÜÇÜNCÜ KATİL - Kulak verin! Nal sesleri duyuyorum.
+  BANQUO, içerden - Hey, oradakiler, bize ışık tutun!
+  İKİNCİ KATİL - Herhalde o, öbür beklenenlerin hepsi geldiler, içerdeler.
+  BİRİNCİ KATİL - Atları başı boş dolaşıyor.
+  ÜÇÜNCÜ KATİL - Daha hemen hemen bir mil var. Ama çoğu zaman o da, ötekiler de, buradan saray kapısına kadar yürürler.
+  (Banquo ile elinde bir meşale tutan Fleance girer.)
+  İKİNCİ KATİL - Işık, ışık!
+  ÜÇÜNCÜ KATİL - O!
+  BİRİNCİ KATİL - Hazırlanın!
+  BANQUO - Bu gece yağmur yağacak.
+  BİRİNCİ KATİL - Yağdırın yağmuru şunun başına!
+  (Banquo'ya saldırır.)
+  BANQUO - Ah, ihanet! Kaç Fleancecığım, kaç, kaç! Belki öç alırsın... Ah, alçak!
+  (Ölür. Fleance kaçar.)
+  ÜÇÜNCÜ KATİL - Işığı kim söndürdü?
+  BİRİNCİ KATİL - Söndürülmeyecek miydi?
+  ÜÇÜNCÜ KATİL - Yerde biri var! Oğlu kaçtı.
+  İKİNCİ KATİL - İşin en iyi parçasını kaçırdık.
+  BİRİNCİ KATİL - Eh, haydi gidelim de neler yaptığımızı anlatalım.
+  (Çıkarlar.)
+ 
+
+  SAHNE IV
+ 
+
+  Sarayda bir şölen odası.
+ 
+
+  Bir şölen sofrası kurulmuştur. Macbeth, Lady Macbeth, Rosse, Lenox, beyler ve hizmetliler girer.
+ 
+
+  MACBETH - Rütbelerinize göre nereye oturacağınızı biliyorsunuz, oturun. Baştan sona hepiniz hoş geldiniz.
+  BEYLER - Haşmetlimize teşekkürler ederiz.
+  MACBETH - Biz aranıza karışıp alçak gönüllü bir ev sahibi gibi davranacağız. Kraliçemiz yerinde oturacak; ama vakti gelince, hoşgeldiniz demesini kendisinden bekleriz.
+  LADY MACBETH - Onu bütün dostlarımıza benim yerime siz söyleyin efendim; çünkü gönlüm de biliyor ya, hoş geldiler.
+  (Birinci katil kapıda gözükür.)
+  MACBETH - Bak, gönülden teşekkürleriyle sana karşılık veriyorlar. İki yan da ödeşti. Şuraya, ortaya oturayım. Bol bol neşelenin. Haydi, içki tası bir kez masayı dolansın... (Katile.) Yüzünde kan var.
+  KATİL - Banquo'nun kanıdır.
+  MACBETH - Onun içinde kalacağına senin üstünde olsun daha iyi. İşi bitirildi mi?
+  KATİL - Efendimiz, gırtlağı kesildi; o işi ben yaptım.
+  MACBETH - Gırtlak kesicilerin en ustasısın sen, ama aynı işi Fleance'a yapana da aferin; eğer onu da sen yaptınsa eşin bulunmaz.
+  KATİL - Hükümdarım, efendim, Fleance kaçtı.
+  MACBETH - Öyleyse yine beni nöbet tutacak. Oysa tam gönül rahatlığına ermiştim: mermer gibi eksiksiz, kaya gibi sarsılmaz, her şeyi saran hava gibi sınırsız olacaktım. Oysa şimdi bir hücreye tıkılmış, dört bir yandan bitip tükenmez kuşkular ve korkularla çevrilmiş oluyorum. Ama Banquo'nun işi tamam, değil mi?
+  KATİL - Evet, sevgili efendimiz, bir çukurda güvenlikte, başında da yirmi tane derin bıçak yarası; en hafifi bile insanda can bırakmaz.
+  MACBETH - Eksik olma... (Kendi kendine.) Büyük yılan orada yatıyor. Kaçan küçük yılanın, yaratılışı gereği, zamanla zehiri güçlenecek. Şimdilik dişi yok...(Katile.) Haydi git; yarın yine dinleriz.
+  (Katil çıkar.)
+  LADY MACBETH - Hükümdar efendimiz, neşeye katılmıyorsunuz. Bir şölen sırasında onun istenerek verildiği sık sık yinelenmezse parayla yenen yemek gibi olur. Karın doyuracak olduktan sonra herkes evinde yer daha iyi. Çağrıda yenen yemeğin salçası iyi ağırlamadır; onsuz toplantı tatsız kaçar.
+  MACBETH - Belleğimin tatlı yardımcısı! Haydi, Afiyet olsun. iştahınız sağlık getirsin.
+  LENOX - Haşmetlimiz gelip oturmazlar mı?
+  (Banquo'nun hayaleti girer, Macbeth'in yerine
+  oturur.)
+  MACBETH - Banquo'nun üstün niteliklerle dolu kişiliği de bulunsaydı burada, yurdumun tüm soylularını bir dam altında toplamış olacaktık. Kendisine bir aksilik çıktı diye üzülmekten çok, bize acımasızlık etti diye çıkışmak istiyorum.
+  ROSSE - Gelmemesi, kendisine sözünü tutmamak suçunu yüklüyor efendimiz. Haşmetlimiz, buraya gelerek bize onur vermezler mi?
+  MACBETH - Masa dolu.
+  LENOX - Burada yeriniz ayrıldı efendimiz.
+  MACBETH - Nerede?
+  LENOX - Burada, sevgili efendimiz. Haşmetlimizi heyecanlandıran nedir?
+  MACBETH - Bunu kim yaptı?
+  BEYLER - Neyi efendimiz?
+  MACBETH - (Hayalete.) Benim yaptığımı söyleyemezsin; kanlı perçemlerini bana doğru sallama hiç.
+  ROSSE - Beyler, kalkalım; haşmetlimiz iyi değiller.
+  LADY MACBETH - Oturun, değerli dostlar. Efendimiz sık sık böyle olur. Ta gençliğinden beri öyledir. Rica ederim yerlerinizde kalın. Nöbeti geçicidir; bir an sonra yine iyileşir. Eğer kendisine fazla dikkat ederseniz canını sıkar, heyecanını artırırsınız; yemeklerinizi yiyin, ona bakmayın... (Macbeth'e) Erkek değil misiniz siz?
+  MACBETH - Evet, hem de gözüpek bir erkek, şeytanı korkutan şeye bile bakma cesaretini gösteren bir erkek.
+  LADY MACBETH - Laf bunlar! Korkundan hayal görüyorsun; havada ilerleyerek seni Duncan'a doğru götürdüğünü söylediğin hançer gibi. Ah, bu coşmalar, irkilmeler, gerçek korkunun taklitleri, olsa olsa kışın ocak başında kadınların anlattığı, ninelerinin de doğrudur dediği masallara yaraşır. Ayıp ayıp! Yüzünü neden türlü biçimlere sokuyorsun? Eninde sonunda baktığın sonuçta bir iskemle.
+  MACBETH - Kuzum, oraya bak! Gör, bak! İşte! Ne diyorsun? Neden, bana neymiş? Başını sallayabiliyorsan bari konuş da... (Konuklara.) Eğer ceset çukurları ve mezarlarımız gömdüklerimizi geri gönderecekse vücutlarımız kuşlara yem olmalıdır.
+  (Hayalet kaybolur.)
+  LADY MACBETH - Ne! Delirip bütün erkekliğini mi yitirdin?
+  MACBETH - Şurada durduğum gibi eminim, onu gördüm.
+  LADY MACBETH - Haydi oradan! Ayıp!
+  MACBETH - Bundan önce de kan dökülmüştür; eski zamanlarda yasaların ülkeleri bir düzene koymasından önce. Evet, hatta ondan sonra da anlaşılmaz korkunçlukta cinayetler işlenmiştir. Ama onlar öyle zamanlarmış ki, beyni dağıldı mı adam ölür, iş bitermiş. Oysa şimdi kafalarında, can bırakmayan yirmi yarayla yine kalkıyorlar, bizi iskemlemizden itiyorlar. Bu durum bu türlü bir cinayetten daha da garip.
+  LADY MACBETH - Değerli efendimiz, soylu dostlarınız sizi bekliyorlar.
+  MACBETH - Dalmışım... Bana şaşıp kalmayın, değerli dostlarım; garip bir rahatsızlığım vardır ki beni tanıyanlar hiç önemsemezler. Gelin, hepinizin sevgi ve sağlığına içelim, sonra oturayım. Bana biraz şarap verin, iyice doldurun. Bütün sofranın toptan neşesine ve yokluğunu duyduğumuz sevgili dostumuz Banquo'nun şerefine içiyorum. Keşke burada olsaydı! Hepinizin ve onun şerefine içiyoruz! Hepinize en iyi dilekler.
+  BEYLER - Hizmetlerimizi ve dileğinizi yineleriz.
+  (Hayalet yine girer.)
+  MACBETH - Defol! Gözümün önünden çekil, git! Toprak seni gizlesin! Kemiklerinde ilik kalmadı, kanın dondu; dikip baktığın o gözlerde algı diye bir şey yok.
+  LADY MACBETH - Beyler, bunu olağan bir şey sayın, fazla bir şey değil. Yalnızca toplantının neşesini kaçırıyor.
+  MACBETH - Bir adam neyi göze alırsa alırım; kıllı Rus ayısı gibi, dişli gergedan gibi, yahut bir Hyrcan kaplanı gibi gel; o biçime girme de hangi biçime girersen gir, sağlam sinirlerim bir kez bile titremez: yahut yine diril, kılıcını çekerek meydan oku, beni çöle çağır; o zaman da titrer kalırsam beni kız bebek ilan et. Haydi git, korkunç gölge! Git gerçek olmayan şey.
+  (Hayalet kaybolur.)
+  Ya işte; o gitti, erkekliğim geri geldi. Kuzum oturun, kalkmayın.
+  LADY MACBETH - Herkesi şaşkına döndüren bir çılgınlıkla neşemizi kaçırdınız, toplantının tadı kalmadı.
+  MACBETH - Böyle şeyler yaz bulutu gibi bizi baskına uğratır da şaşmadan kalabilir miyiz hiç? Öyle görünümler gördüğünüzde sizin yanaklarınızın renginin hiç solmadığını, benimse kireç gibi bembeyaz kesildiğimi düşününce kendimi yadırgıyorum.
+  ROSSE - Ne türlü görünümler, efendimiz?
+  LADY MACBETH - Rica ederim, konuşmayın; kötüleşir. Soru sorulunca çileden çıkıyor. Haydi gidin, iyi geceler diliyorum. Gitmek için sıra gözetmeyin, hemen gidin.
+  LENOX - İyi geceler, haşmetlimize de esenlikler dileriz.
+  LADY MACBETH - Hepinize de candan, geceniz hayır olsun!
+  (Beyler ve hizmetliler çıkar.)
+  MACBETH - İlle kan ister, kan kanı ister demişler. Taşların kımıldadığı olmuştur, ağaçların da konuştuğu. En iyi gizlenen katil, fallar ve eşya arasındaki gizemli bağlantılar, saksağanlar, alakargalar, kuzgunlar aracılığıyla ortaya çıkarılmıştır... Gece ne kadar ilerledi?
+  LADY MACBETH - Gündüzle gece çekişmekte, hangisidir belli değil.
+  MACBETH - Büyük çağrımıza gelmekten Macduff'ın kaçınmasına ne dersin?
+  LADY MACBETH - Adam yollamamış mıydınız kendisine?
+  MACBETH - Adam da gönderdim ama gelmeye niyeti olmadığını başkasından öğrendim. Bilgi almak için herkesin evinde parayla tutulmuş bir adamım var. Yarın, hemen erkenden, cadılara gideceğim; daha çok şey söylesinler; ne kadar kötü olursa olsun her şeyi öğrenmeye karar verdim. Benim çıkarım önünde her şey boyun eğecek. Kan içinde ilerlerken o kadar açılmışım ki artık dönmek benim için öbür yana ulaşmak kadar güç. İleri yürümeliyim. Kafamda garip şeyler var, elime buyruk verip duruyorlar, gerçekleşmek istiyorlar.
+  LADY MACBETH - Her varlığa tazelik veren uykuya gereksinmeniz var sizin.
+  MACBETH - Gel, gidip uyuruz. Bu garip durumum, kendimden geçişim başlangıçta duyulan bir korku, yinelene yinelene nasırlaşacak. Henüz bu işten yana acemiyiz.
+  (Çıkarlar.)
+ 
+
+  SAHNE V
+ 
+
+  Bir kıraç.
+ 
+
+  Gök gürler. Üç cadı girer, Hecate ile karşılaşır.
+ 
+
+  BİRİNCİ CADI - Hayrola Hecate? Kızgın görünüyorsun.
+  HECATE - Hakkım yok mu, cadı karılar, başından büyük işe kalkışan küstahlar sizi! Nasıl cesaret edip Macbeth'le ölüm dirim işlerine, gizli ve karışık işlerin alışverişlerine giriştiniz de beni, büyülerinizin sultanını, bütün kötülüklerin düzenleyicisini bu işe, sanatımızın şanını göstermeye çağırmadınız? Hem daha kötüsü, bütün emeklerinizi zaten sapık, kinci, öfkeli olan bir insanoğlunda tükettiniz. Öbürleri gibi sizinkini değil, kendi çıkarını düşünen birinde. Ama şimdi özürünüzü düzeltin bakalım. Gelin, sabahleyin Acheron Kuyusu başında benimle buluşun. Bahtını öğrenmeye oraya gelecek. Kaplarınızı, büyülerinizi, sihirlerinizi, daha başka neniz varsa hepsini hazırlayın. Ben havalanıyorum; bu geceyi berbat ve hayırsız bir iş uğruna harcayacağım. Öğleden önce büyük bir iş başarılmış olmalı. Ayın ucunda bir buhar damlası hazır bekliyor; yere düşmeden onu yakalayacağım; bu damla, sihirli yollarla süzülürse, öyle olmadık ruhlar ortaya çıkaracak ki, bunların gücü onun başını belaya sürükleyecek. Yazgıya aldırmayacak, ölümü aşağı görecek; aklı, ölümü aşan umutlara kapılacak; oysa siz hepiniz bilirsiniz; kendine fazla güven ölümlü olanların baş düşmanıdır.
+  (İçerden, "Gelin gelin..." diye bir şarkı duyulur.)
+  O ne! Beni çağırıyorlar. Bakın küçük perim bir sis bulutuna oturmuş beni bekliyor.
+  (Çıkar.)
+  BİRİNCİ CADI - Gelin, çabuk davranalım; birazdan geri döner.
+  (Çıkarlar.)
+  SAHNE VI
+ 
+
+  Fores. Sarayda bir oda.
+ 
+
+  Lenox'la diğer bir bey girer.
+ 
+
+  LENOX - Önceki sözlerim size yalnızca daha derin düşünceler esinlemeyi amaçlıyordu. Ben şunu söylüyorum, işler garip gelişti. İyiliksever Duncan'ın ölümü, Macbeth'i üzüntüye boğdu. Adamcağız ölüp gitmişti. Yiğit Banquo ise geç saatlerde dışarlarda dolaşmıştı; onu da isterseniz Fleance öldürdü deyin, çünkü Fleance kaçtı! Geç vakit dışarlarda dolaşmak iyi değildir! Öyle iyi bir babayı öldürmekle Malcolm'un da, Donalbain'in de canavarca davrandığını kim kabul etmez ki? Ne haince bir işti o! Macbeth nasıl perişan olmuştu da sevgiden doğan bir öfkeyle, doğruca gidip içkiye yenilmiş ve uykunun elinde oyuncak olmuş o iki suçluyu paralamıştı. Soylu bir davranış değil miydi bu? Evet, hem de akıllıca bir davranıştı. Çünkü adamların kendilerini savunmalarını dinlemek herkesi öfkelendirecekti. Onun için, her şeyi iyi idare etti diyorum. Hatta bana öyle geliyor ki, Duncan'ın oğullarını da anahtar altında bulundursaydı - şükür ki Tanrı'nın izniyle bulunduracağı yok - baba öldürmek ne demekmiş öğrenirlerdi! Fleance da öyle! Ama susalım! Duydum ki hem uluorta konuştuğu, hem de zorbanın şöleninde bulunmadığı için Macduff, gözden düşmüş. Nerede olduğunu biliyor musunuz, efendim?
+  BEY - Doğuştan hakkı olan şeyi, tahtı, bu zorba tarafından elinden alınan Duncan'ın oğlu, İngiliz sarayında; dindar Edward'dan öyle yakın ilgi görüyor ki uğramış olduğu bahtsızlık saygınlığının büyüklüğüne hiçbir zarar vermiyor. Macduff da oraya gitti: bu evliya gibi hükümdara ricada bulunacak. Northumberland ilinin ve savaşçı Siward'ın bu ayaklanmaya yardım etmeleri için. Onların ve gökteki Tanrı'nın yardımı belki yine sofralarımıza yemek, gecelerimize uyku getirir. Şölenlerimizi, şenliklerimizi kanlı bıçaklardan kurtarır, gönülden saygı duyup, lekelenmeden onur kazanabiliriz; oysa bunların hepsine özlem duyuyoruz. İşte bu haberler Macbeth'i öyle öfkelendirdi ki savaş hazırlığına başladı.
+  LENOX - Macduff'a haber gönderip çağırttı mı?
+  BEY - Evet çağırttı ama düpedüz bir "Hayır efendim" yanıtını alan haberci asık bir yüzle "Bana bu yanıtı yük ettiğine pişman olacaksın!" diye söylenerek gerisin geriye döndü.
+  LENOX - Öyleyse onu ölçülü davranmaya, uzak durmaya iten budur. Ah, Tanrı'nın bir meleği uçup İngiliz sarayına gitse, o ulaşmadan onun haberini götürse de ilençli bir elin altında acı çeken şu yurdumuz bir an önce rahata erse!
+  BEY - Ben de onunla hayır duamı gönderirdim.
+  (Çıkarlar.)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  DÖRDÜNCÜ PERDE
+ 
+
+ 
+
+  SAHNE I
+ 
+
+  Karanlık bir mağara. Ortada kaynayan bir kazan.
+ 
+
+  Gök gürler. Üç cadı girer.
+ 
+
+  BİRİNCİ CADI - Karakedi üç kez miyavladı.
+  İKİNCİ CADI - Kirpi üç tıslayıp, bir kez cıyakladı.
+  ÜÇÜNCÜ CADI - Zebani karı seslendi: vakit geldi, vakit geldi!
+  BİRİNCİ CADI - Kazanın çevresinde dönelim, içine zehirli barsak atalım da atalım. Soğuk taş altında otuz bir gündüz otuz bir gece uyuya uyuya zehir toplayan kurbağa... Kazanda ilk sen kayna!
+  HEPSİ - Katmerlen dert, üzüntü, katmerlen! Ateş yan! Kazan fıkırda!
+  İKİNCİ CADI - Bataklık yılanının kaburga eti, kazanda kayna da piş: semender gözü, kurbağa ayağı, yarasa tüyü, köpek dili, engereğin çatal dili, kör yılanın dişi, kertenkele bacağı, baykuş kanadı, derdi yaman bir büyü için cehennem aşı gibi kaynayıp fokurdayın.
+  HEPSİ - Katmerlen dert, üzüntü, katmerlen! Ateş yan! Kazan fıkırda!
+  ÜÇÜNCÜ CADI - Ejder pulu, kurt dişi, büyücü mumyaları; karanlıkta kazılıp çıkmış baldıran kökü; küfürbaz çıfıt ciğeri: keçi safrası, ay tutulduğu sırada kesilen porsuk yaprağı; Türk burnu, Tatar dudağı; doğar doğmaz boğulup çukura atılmış orospu çocuğunun parmağı; koyultun çorbayı. Üstelik bir kaplanın barsağı da kazanımızdakilere katılsın.
+  HEPSİ - Katmerlen dert, üzüntü, katmerlen! Ateş yan! Kazan fıkırda!
+  İKİNCİ CADI - Bunu bir bebeğin kanıyla da soğuttun mu, büyü sağlamdır, iyidir artık. (Hecate girer.)
+  HECATE - Hah, aferin! Çabanızı beğendim, kazançtan hepinize bir pay var. Şimdi kazanın çevresinde halka olmuş periler, cinler gibi, türkü söyleyip dönün de içine attıklarınızın hepsi büyülensin.
+  (Saz çalınır, "Kara ruhlar..." diye türkü söylenir.)
+  İKİNCİ CADI - Baş parmaklarımın kaşınmasına bakılırsa bu yana doğru hain bir şey geliyor. (Kapı vurulur.) Kimse vuran açılın kilitler!
+  (Macbeth girer.)
+  MACBETH - Ne var, sizi uğursuz kara cadılar sizi! Ne iş görüyorsunuz?
+  HEPSİ - Adsız bir iş.
+  MACBETH - Size diyorum, uğraşınız hakkı için, nereden bulup öğreniyorsanız bana yanıt verin; ister rüzgârların başını boş bırakın da kiliselerle boğuşsun; ister köpüklü dalgalar gemileri parçalayıp yutsun: ister olgun başaklar kırılsın, ağaçlar devrilsin; ister hisarlar sahiplerinin başına çöksün; ister saraylar, ehramlar yerle bir olsun; ister doğanın bütün bereket tohumları karmakarışık olsun da yakıp yıkan bu güce kendiliğinden bıkkınlık gelsin, tek siz benim sorduğumu yanıtlayın.
+  BİRİNCİ CADI - Söyle.
+  İKİNCİ CADI - Sor.
+  ÜÇÜNCÜ CADI - Yanıt veririz.
+  BİRİNCİ CADI - Söyle, bizim ağzımızdan mı duymak istersin, yoksa efendilerimizin mi?
+  MACBETH - Çağırın bakayım, göreyim onları.
+  BİRİNCİ CADI - Kazana dokuz yavrusunu yiyen domuzun kanını dökün; aleve katilin asıldığı ağaçtan sızan yağı atın.
+  HEPSİ - İster yukarıdan gel, ister aşağıdan; göster kendini, gücünü, becerini.
+  (Gök gürler. İlk hayalet, miğferli bir baş gözükür.)
+  MACBETH - Söyle bana bilinmeyen güç...
+  BİRİNCİ CADI - O senin aklından geçeni bilir: dinle, konuşma.
+  BİRİNCİ HAYALET - Macbeth! Macbeth! Macduff'dan sakın! Fife Beyi'nden sakın. Beni bırakın! Yeter!
+  (İner, gözden yiter.)
+  MACBETH - Ne olursan ol, bu yerinde öğüdün için teşekkürler: tam korkuma parmağını bastın. Ama bir söz daha.
+  BİRİNCİ CADI -Bırak, buyruk dinlemez. İşte bir tane daha, ilkinden daha güçlü.
+  (Gök gürler. İkinci hayalet, kanlar içinde bir çocuk gözükür.)
+  İKİNCİ HAYALET - Macbeth! Macbeth!
+  MACBETH - Keşke üç kulağım olsa da seni üçüyle de işitsem.
+  İKİNCİ HAYALET - Kanlı ol, pervasız ol; insan gücünü küçümse, çünkü anadan doğmuş kimse Macbeth'e zarar veremez. (İner, gözden yiter.)
+  MACBETH - Öyleyse, var yaşa Macduff! Senden ne diye korkayım? Ama yine de işi sağlama bağlamak için yazgıdan bir senet alırım. Sağ kalma ki o yüreksiz korkuya, yalan söylüyorsun diyebileyim; gök gürültüsüne aldırmadan uyuyabileyim.
+  (Gök gürler. Üçüncü hayalet taç giymiş ve elinde ağaç tutan bir çocuk biçiminde gözükür.)
+  Bu ne böyle: bir hükümdar soyundanmış gibi yükseliyor, çocuk alnında da hükümdarlığın o üstün simgesi çevrelenmiş?
+  HEPSİ - Dinle, konuşma.
+  ÜÇÜNCÜ HAYALET - Aslan yürekli ol, gururlu ol; kızdıranlara, can sıkanlara aldırma: hainlik edecekleri aramaya kalkma. Macbeth, Koca Birnam Ormanı ayaklanıp Dunsinane Tepesi'ne yürümedikce yenilmeyecektir.
+  (İner, gözden yiter.)
+  MACBETH - Bu da dünyada olmayacaktır. Kim ormanı yürütebilir; ağaçlardan, toprağa bağlı köklerini sökmesini isteyebilir? Güzel belirtiler bunlar! İyi! Ey isyan, Birnam Ormanı yerinden kalkıncaya kadar başını kaldırmayasın! Macbeth de doğa yeter diyene kadar, yaşayabildiği kadar yaşar ve zamanı gelince her ölümlü gibi can verir. Yalnızca bir şeyi öğrenmek için yüreğim yanıp tutuşuyor: eğer sanatınız o kadarını söyleyebilirse söyleyin bana: bu ülkede Banquo'nun çocukları egemen olacak mı?
+  HEPSİ - Daha fazlasını öğrenmeye uğraşma.
+  MACBETH - Dediğim yerine gelmeli. Benden bunu esirgerseniz sonu gelmez bir ilence uğrayın! Öğreneyim. Kazan neden batıyor? Bu ses nedir?
+  (Obualar çalar.)
+  BİRİNCİ CADI - Gösterin!
+  İKİNCİ CADI - Gösterin!
+  ÜÇÜNCÜ CADI - Gösterin!
+  HEPSİ - Gözüne gösterin, yüreğini dağlayın. Gölge gibi gelin, yine öyle silinin.
+  (Sekiz hükümdar gözükür, sonuncusunun elinde bir ayna vardır, arkadan Banquo gözükür.)
+  MACBETH - Banquo'nun ruhuna fazla benziyorsun: Yıkıl karşımdan. Tacın göz bebeklerimi yakıyor. Başında tacı olan ikinci hayal, senin saçların da ilkine benziyor. Üçüncü de önündeki gibi. Pis cadılar! Bana bunu ne diye gösteriyorsunuz? Bir dördüncü ha! Yuvalarınızdan uğrayın gözler! Ne! Kıyamete kadar bunların ardı arkası gelmeyecek mi? Bir tane daha ha? Bir yedinci ha? Artık başka görmeyeceğim. Ama işte, bir sekizinci gözüktü: elinde ayna tutuyor, bana bir çoklarını gösteriyor. Gördüklerimin bazıları ellerinde çift küreler, üçüzlü asalar tutuyorlar. Ne korkunç görünüm! Şimdi anlıyorum ki doğruymuş; çünkü perçemleri kanlı Banquo bana gülümsüyor, onların kendisinden olduğunu işaret ediyor. Doğru mu bu?
+  BİRİNCİ CADI - Evet efendim, hepsi doğru. Ama Macbeth, neden şaşıp kaldı? Gelin kardeşler, onu neşelendirelim; eğlencelerimizin en güzellerini gösterelim. Ben havaya büyü yapayım da ses versin, siz de halka olun, dönüp oynayın. Bu ulu hükümdar da, geldiği bu yerde iyi ağırlandığını söylesin.
+  (Saz çalar. Cadılar oynar ve gözden yiter.)
+  MACBETH - Nerede, gittiler mi? Bu uğursuz saat takvimde kıyamete kadar ilençli kalsın! Dışarda kim varsa buraya gelsin!
+  (Lenox girer.)
+  LENOX - Efendimizin buyruğu nedir?
+  MACBETH - Cadıları gördün mü?
+  LENOX - Hayır, efendimiz.
+  MACBETH - Senin yanından geçmediler mi?
+  LENOX - Hayır, geçmediler, efendimiz.
+  MACBETH - Sırtına bindikleri hava zehirlensin, onlara güvenenler de ilence uğrasın! Dört nala gelen at sesleri işittim: gelen kimdi?
+  LENOX - İki üç kişi, efendimiz, size haber getirdiler: Macduff, İngiltere'ye kaçmış.
+  MACBETH - İngiltere'ye mi kaçmış?
+  LENOX - Evet, sevgili efendimiz.
+  MACBETH - Ah zaman! Yapacağım korkunç şeyler var, sen benden önce davranıyorsun. Eğer düşündüğünle yaptığın bir araya gelmezse uçan niyete asla erişilmez. Şu dakikadan sonra gönlümden ilk geçireceğim iş elimin ilk işleyeceği olsun. Hatta şimdi, düşüncelerimi gerçekleştirmek için hemen işe başlıyorum. Macduff'ın şatosunu basacağım; Fife'ı zaptedeceğim; karısını, çocuklarını, onun kanından olmak bahtsızlığına eren bütün canları kılıçtan geçireceğim. Sersemler gibi böbürlenemeyecek. Niyetimin soğumasına zaman bırakmadan bu işi yapacağım. Ama artık hayalet filan istemem! Bu adamlar nerede? Haydi beni onların olduğu yere götürün.
+  (Çıkarlar.)
+  SAHNE II
+ 
+
+  Fife, Macduff'ın şatosunda bir oda.
+ 
+
+  Lady Macduff, oğlu ve Rosse girer.
+ 
+
+  LADY MACDUFF - Ne yaptı, neden kaçsın ülkesinden?
+  ROSSE - Sabırlı olmalısınız, efendim.
+  LADY MACDUFF - O oldu mu? Kaçmakla çılgınlık etti. Ortada hiç bir şey yokken korkularımız yüzünden hain dedirtiriz kendimize.
+  ROSSE - Korkaklık mı etti, akıllı mı davrandı bilmiyoruz ki.
+  LADY MACDUFF - Akıllı davranmak ha! Bir yerden kendi kaçıp karısını bırakmak, çocuklarını bırakmak, mülkünü, haklarını bırakmak akıllılık mı? Bizi sevmiyor; aile sevgisi yok onda. Öyle ya, kuşların en küçüğü çöplük bülbülü bile yuvasındaki yavruları uğruna baykuşla pençeleşir. Mantığa bu kadar karşı gelip kaçan insanda yalnızca korku vardır, sevgi yoktur, aklı da o kadar azdır.
+  ROSSE - Benim sevgili kardeşim, ne olur kendinize egemen olun. Kocanıza gelince, soylu bir adamdır, akıllıdır, dikkatlidir, zamanın karışıklığını hepimizden iyi bilir. Daha fazla konuşmaya cesaret edemiyorum: ama çok kötü günlerdeyiz, ne yaptığımızı bilmeden hain oluveriyoruz.Korktuk mu çıkan her söylentiye inanıyoruz, oysa neden korktuğumuzu bildiğimiz yok, azıp kudurmuş bir deniz üstünde oraya buraya sürüklenip duruyoruz. İzninizle ben gideyim: çok kalmaz yine gelirim. En kötü olunca işler ya durulur, ya da eski durumlarına dönerler. Benim güzel kardeşim, Tanrı sizden iyiliklerini eksik etmesin!
+  LADY MACDUFF - Babası var ama yine de yetim.
+  ROSSE - Öylesine kendimde değilim ki, daha fazla durursam sizi de üzeceğim, kendimden utanıyorum.
+  (Çıkar.)
+  LADY MACDUFF - Oğlum, baban öldü: şimdi ne yapacaksın? Nasıl yaşayacaksın?
+  ÇOCUK - Kuşlar gibi anne.
+  LADY MACDUFF - Ne, böceklerle sineklerle mi?
+  ÇOCUK - Ne bulursam onunla demek istedim, onlar da öyle yapıyor.
+  LADY MACDUFF - Vah zavallı kuş! Ağdan, ökseden, tuzaktan, kapandan hiç korkmayacak mısın?
+  ÇOCUK - Niye korkayım, anneciğim? Onlar zavallı kuşlara göre değil ki. Hem sen ne dersen de, babam ölmedi.
+  LADY MACDUFF - Öldü, gerçekten. Babasız ne yapacaksın bakalım?
+  ÇOCUK - Asıl sen kocasız ne yapacaksın?
+  LADY MACDUFF - Neden? Hangi pazardan olsa yirmisini birden satın alırım.
+  ÇOCUK - Alırsın ama, sonra yine satarsın.
+  LADY MACDUFF - Akıllıca konuşuyorsun, hem aklın da yaşına göre biraz fazla!
+  ÇOCUK - Babam hain miydi, anne?
+  LADY MACDUFF - Evet, öyleydi.
+  ÇOCUK - Hain kime derler?
+  LADY MACDUFF - Kime olacak, sövüp yalan söyleyenlere.
+  ÇOCUK - Öyle yapanların hepsi hain midir?
+  LADY MACDUFF - Böyle yapan herkes haindir, kesinlikle asılmalıdır.
+  ÇOCUK - Sövüp yalan söyleyenlerin hepsi kesinlikle asılmalı mı?
+  MACDUFF - Evet, hepsi.
+  ÇOCUK - Onları kim asar?
+  LADY MACDUFF - Kim asacak, namuslu adamlar.
+  ÇOCUK - Öyleyse sövüp yalan söyleyenler aptal; çünkü onlar, yalancılarla sövgücüler o kadar çok ki namuslu adamları götürüp asabilirler.
+  LADY MACDUFF - Ah Tanrım, seni maymun seni! Babasız ne yapacaksın bakalım sen?
+  ÇOCUK - Eğer ölmüş olsaydı sen ağlardın; ağlamak istemiyorsan yakında yeni bir babam olacak demektir.
+  LADY MACDUFF - Zavallı gevezem benim! Neler de bulup söylüyorsun!
+  (Bir haberci girer.)
+  HABERCİ - Tanrı iyiliklerini üstünüzden eksik etmesin, güzel efendim! Beni siz tanımazsınız ama şanınız bence bellidir. Korkarım ki size çok yaklaşan bir tehlike var. Eğer kendi halinde bir adamın öğütlerini dinlerseniz burada kalmayın: yavrularınızla kaçın gidin. Sizi böyle korkutmak, biliyorum ki, acımasızlık; ancak kötünün kötüsü çok yakınınızda. Tanrı sizi korusun! Daha fazla kalmaya cesaretim yok.
+  (Çıkar.)
+  LADY MACDUFF - Nerelere kaçayım ben? Bir kötülük etmedim ki. Ama, ah, anımsadım ki bu aşağılık dünyadayım: kötülüğün çok kez alkışlandığı, iyiliğin bazen tehlikeli bir çılgınlık sayıldığı dünyada. Ah ah, öyleyse, ne diye böyle kadınca savunmada bulunup bir kötülük etmedim ki diyorum? Bu yüzler de ne?
+  (Katiller girer.)
+  KATİL - Kocan nerde?
+  LADY MACDUFF - Dilerim Tanrı'dan, senin gibilerin ulaşacağı uğursuz bir yerde bulunmasın!
+  KATİL - Hainlik etti o.
+  ÇOCUK - Yalan söylüyorsun, kıllı herif!
+  KATİL - Ne, piçkurusu!
+  (Çocuğu bıçaklar.)
+  Seni kötülük tohumu seni!
+  ÇOCUK - Beni öldürdü anne, sen kaç, ne olur!
+  (Ölür. Lady Macduff "Cinayet!" diye haykırarak çıkar, peşinden katiller kovalar.)
+ 
+
+  SAHNE III
+ 
+
+  İngiltere. Kralın sarayında bir oda.
+ 
+
+  Malcolm ile Macduff girer.
+ 
+
+  MALCOLM - Issız bir gölge bulalım da oturup dertleşelim.
+  MACDUFF - Mert insanlar gibi, ölüm getiren kılıçlarımızı kavrayıp düşen anayurdumuzu ayağa kaldırmak daha iyi olur dertleşmekten. Her doğan günde yeni dullar haykırıyor, yeni yetimler ağlıyor; gökyüzüne yeni acılar savrulup çarpıyor, gök sanki İskoçya ile birlikte bu acıları çekiyormuşcasına aynı acı çığlıklarla inliyor.
+  MALCOLM - İnandığım şeye yanarım; bildiğim şeye inanırım; düzeltebileceğim şeyi, zaman yar olursa, düzeltirim. Söyledikleriniz doğru olabilir. Adını anmakla bile dillerimizi kabartan bu zorba, bir zamanlar dost sanılırdı: siz de kendisini pekâlâ severdiniz, henüz bir zararını görmediniz. Ben gencim; belki de beni kullanarak ondan bir şeyler umabilirsiniz. Öfkeli bir Tanrı'yı yatıştırmak için zavallı, güçsüz, günahsız bir kuzuyu kurban etmek iyi bir önlemdir.
+  MACDUFF - Ben hain değilim.
+  MALCOLM - Ama Macbeth öyledir. Hükümdar buyruğu önünde iyi ve erdemli insanın da boyun eğdiği olur. Bağışlamanızı dilerim: benim düşüncelerim ne olursa olsun, sizi değiştiremez. En nurlusu düşmüş olsa bile (5) melekler hep nurludur. Bütün iğrenç şeyler güzel bir yüz takınsa bile, güzellik güzelliğini yitirmez.
+  MACDUFF - Tüm umutlarımı yitirdim.
+  MALCOLM - Herhalde benim kuşkularımı bulduğum yerde olacak. Neden öyle alelacele çoluğunuzu çocuğunuzu, o değerli varlıkları, o güçlü sevgi bağlarını, esenleşmeden bırakıp geldiniz? Sizden rica ederim, bu söylediklerimi size sürülmüş birer leke olarak düşünmeyin. Kuşkularımı kendimi korumak için başvurduğum bir yol olarak düşünün. Ben ne düşünürsem düşüneyim yine de siz haklı olabilirsiniz.
+  MACDUFF - Kana zavallı yurdum, kana! Koca kıyıcı, temelini sağlam at, çünkü iyilik seni önlemeye cesaret edemiyor! Haksızlıklarını ulu orta kuşan, takındığın unvan hakkın olarak tanındı! Hoşça kalın, efendimiz. Zorbanın avcundaki bütün ülkeler için, hatta üstelik doğunun bütün serveti için de olsa, yine, sizin aklınıza gelen alçaklığa razı olmazdım.
+  MALCOLM - Gücenmeyin; böyle dedimse de, sizden kesinlikle kuşku duymadım. Yurdumuz boyunduruk altında eziliyor, gözyaşı döküyor, kan akıtıyor; her gelen gün yaralarına bir yenisi katılıyor. Yine sanıyorum ki benim haklarım için savaşacak çok insan var. Buradan iyiliksever İngiltere kralı da binlerce yiğit kişi önerdi. Fakat, bütün bunlara karşın, zorbanın kafasını ezdikten ya da kılıcımın ucuna geçirdikten sonra, yeni gelenin hükümdarlığında, zavallı yurdum öncekinden daha çok kötülüklere uğrayacak, daha ağır ve eskisinden daha çok acılara düşecek.
+  MACDUFF - Kimden söz ediyorsunuz?
+  MALCOLM - Kendimden söz ediyorum. Bende öyle kötülükler yer etmiştir ki, bir kez ortaya çıktılar mı yanlarında kara Macbeth, kar gibi beyaz kalır. Zavallı halkım, benim sonsuz kötülüklerimle karşılaştırınca onu kuzu gibi bulur.
+  MACDUFF - Korkunç cehennemin zebanilerinden bile, kötülükte Macbeth'i aşacak bir iblis çıkamaz.
+  MALCOLM - Kabul ediyorum: Kan döken, zevk ve para düşkünü, kancık, sahtekâr, öfkeli, kötülüksever,bütün günahları işleyebilen bir adam o. Ama benim şehvet düşkünlüğümün de hiç sonu yoktur: Karılarınız, kızlarınız, kadınlarınız, kızoğlan kızlarınız benim şehvetimi doyurmaya yetişmez. İsteklerim, onu durdurmaya çalışan bütün engelleri aşar. Böyle birindense, Macbeth yerinde kalsın daha iyi.
+  MACDUFF - Zevkine sınır tanımamak doğanın bir işkencesidir. Bence nice mutlu tahtların zamansız boş kalmasına, nice hükümdarın düşmesine neden olmuştur bu. Ama siz yine de, hakkınızı almaktan çekinmeyin: Zamanı öyle aldatabilirsiniz ki, istediklerinizi bol bol yerine getirir de yine soğuk, tutkusuz gözükebilirsiniz. Sizi isteyerek kendiliğinden gelecek kadınlarımız size yeter de artar bile. Kendilerini sizin gibi bir büyüğe vermeye hazır olanların hepsini yutacak kadar yaman bir akbaba olmanız olanaksızdır.
+  MALCOLM - Bundan başka, kişiliğime işlemiş kötülükler arasında bir de öyle önü alınmaz bir açgözlülüğüm vardır ki, hükümdar olsam, mallarını mülklerini almak için soyluların boyunlarını vurdururdum; onun mücevherlerine, bunun evine göz koyardım. Ne kadarını ele geçirirsem iştahım o kadar artardı. Öyle ki namuslu ve sadık olanlarla yok yere kavga çıkarır, servetleri için onları yok ederdim.
+  MACDUFF - Bu açgözlülük bahar şehvetinden daha derine işler, tehlikeli bir kök salar dünyaya; Nice hükümdarımızın başını alan kılıçtır bu tutku. Ama siz yine korkmayın: İskoçya sizi, yalnızca sizin olanla bile istediğiniz gibi doyuracak kadar bolluktur. Başka iyi niteliklerinizle karşılaştırılınca bütün bunlar çekilir.
+  MALCOLM - Benim hiç yok ki. Hükümdarlara yaraşan nitelikler: Adalet, doğruluk, ölçülülük, denge, cömertlik, kararlılık, acıma, alçakgönüllülük, bağlılık, sabır, cesaret, bende bunların zerresi yoktur. Ama ne kötülük ararsan bol bol vardır. Hatta, elimden gelse, dostluğun tatlı sütünü döker, barışı her yerde önler, yeryüzünde birlik diye bir şey bırakmazdım.
+  MACDUFF - Ah İskoçya, İskoçya!
+  MALCOLM - Böyle birinin egemen olmaya hakkı var mı söyle; ben, anlattığım gibi bir insanım.
+  MACDUFF - Egemen olmaya mı, hayır hayır, yaşamaya bile hakkı yoktur. Ah, asası kan içinde bir zorbanın zorla ele geçirdiği zavallı yurdum. Tahtının gerçek sahibi kendi sözleriyle kendini ilençledikten, soyunu lekeledikten sonra, artık senin iyi günlerin kim bilir ne zaman geri gelir! Senin şahane baban evliya gibi bir hükümdardı; seni doğuran kraliçe ayakta olmaktan çok diz üstü duadaydı, her gününü son günü gibi geçirirdi. Hoşça kal! Ben İskoçya'yı, senin kendinde olduğunu söylediğin bu kötülükler yüzünden bıraktım. An gönlüm, ah, umutların sona eriyor işte!
+  MALCOLM - Macduff, namustan doğan bu soylu coşku yüreğimdeki kara kuşkuları silip attı, senin doğruluğuna ve onuruna beni inandırdı. İblis Macbeth, bu türlü binbir oyunla beni ele geçirmeye çalışmıştı, ama akıllılık edip hemen inanıvermedim ona. Ama Tanrı tanığımız olsun, hemen şu anda senin göstereceğin yola yürürüm. Kendim için söylediklerimi de geri alıyorum. Bende var dediğim bütün eksiklerin, lekelerin kişiliğime yabancı olduklarına ant içiyorum. Henüz kadın nedir bilmedim; sözümü tutmazlık hiç etmedim: Şeytanı bile ele vermek istemem; yaşamak kadar doğru söylemekten de zevk duyarım: ilk yalanım kendim için söylediklerimdi. Şimdi gerçek kimliğimle, senin ve zavallı ülkemin buyruğuna giriyorum. Gerçekten, sen buraya gelmeden önce, yaşlı Siward tepeden tırnağa hazır on bin savaşçıyla oraya gitmek üzere yola çıkıyordu. Artık hep birlikte gideriz. Davamızın doğruluğu kadar, bahtımız da açık olsun. Neden sustun?
+  MACDUFF - Böyle hem üzen, hem sevindiren şeyleri bir anda uzlaştırmak güç oluyor.
+  (Bir hekim girer.)
+  MALCOLM - Neyse, sonra daha fazla görüşürüz. Kral geliyor mu?
+  HEKİM - Evet efendim, bir alay zavallı hasta toplanmış ondan şifasını bekliyor: Bilimin bütün çabaları boşuna; Tanrı öyle bir kutsallık vermiş ki, hemen iyileşiyorlar.
+  MALCOLM - Teşekkür ederim .
+  (Hekim çıkar.)
+  MACDUFF - Söz ettiği hangi hastalık ?
+  MALCOLM - "Kötü Hastalık" denir. Bu iyi hükümdarın en büyük bir mucizesi: Buraya geldiğimden beri birçok kez bu mucizesine tanık oldum. Tanrı'ya ne türlü yalvarıyor, kendi bilir: Ama hastalığa tutulmuş, şiş ve yara içinde, bakmaya insan yüreği dayanmayan, hekimlerin umut kestiği insanları iyi ediyor. Dua okuyarak boyunlarına üstü damgalı bir altın asıyor. Dediklerine göre bu şifalı soluğu kendisinden sonra soyuna da geçermiş. Bu işitilmedik gücünden başka geleceği haber vermek de onda Tanrı vergisi. Tahtının çevresine Tanrı rahmet yağdırmış. Bunlar onun Tanrı'nın ne kadar sevgili bir kulu olduğunu gösteriyor. (Rosse girer.)
+  MACDUFF - Bakın, kim geliyor.
+  MALCOLM - Ülkemizden biri; ama kendisini tanıyamadım.
+  MACDUFF - Benim iyi yürekli kardeşim, hoş geldin.
+  MALCOLM - Şimdi tanıdım. Tanrım, bizi böyle birbirimize yabancı edenleri bir an önce ortadan kaldır!
+  ROSSE - Amin, efendimiz.
+  MACDUFF - İskoçya yine eski durumunda mı?
+  ROSSE - Ah zavallı ülkem! Kendini tanımaktan adeta korkuyor. Ona anamız değil ancak mezarımız denir: Orada her şeyden habersiz olanlardan başka gülümseyen yok; orada ahlar, iniltiler, göğü yırtan ağlayışlar sürüp gidiyor, duyan yok, fark edilmiyor bile. Büyük üzüntüler günlük kaygılar olmuş; ölüm çanı çalarken kime diye soran pek olmuyor; iyi insanların ömrü başlarındaki çiçeklerden önce geçiyor, çiçekler solmadan onlar ölüyor.
+  MACDUFF - Ah, çok inceden inceye ama, çok doğru bir anlatış bu!
+  MALCOLM - En taze acı nedir?
+  ROSSE - Bir saat önce olan anlatanı gülünç ediyor; her dakika, yeni bir acıya gebe.
+  MACDUFF - Karım nasıl?
+  ROSSE - İyidir.
+  MACDUFF - Ya bütün çocuklarım?..
+  ROSSE - Onlar da iyidir.
+  MACDUFF - Zorba onların da rahatını kaçırmadı ya?
+  ROSSE - Hayır; ben bıraktığım sırada hepsi rahattılar.
+  MACDUFF - Sözünü esirgeyerek konuşma. Ne var? Ne oldu?
+  ROSSE - Bana çok ağırlık veren haberlerle buraya gelirken birçok değerli kişinin başkaldırdığı söylentisi vardı. Bu söylentinin kanıtı olarak da zorbanın savaşa hazırlanmış birliklerini gördüm. Bir gözükmeniz İskoçya'da binlerce asker yaratacak: O beladan kurtulmak için kadınlarımız bile savaşa katılacaklardır.
+  MALCOLM - Rahat olsunlar, geliyoruz. İyiliksever İngiltere hükümdarı bize soylu Siward ile on bin asker verdi. Ondan daha deneyimli, daha iyi bir asker bütün Hıristiyan ülkesinde aransa da bulunmaz.
+  ROSSE - Keşke bu acımızı azaltacak haberlere ben de böyle bir haber ekleyebilsem. Benim söyleyeceklerim öyle sözler ki, bir tek insan kulağı bile duymasın diye ancak ıssız çöllerde haykırılır.
+  MACDUFF - Bunlar neyle ilgili? Ülke işleriyle mi? Yoksa tek bir yüreğe düşecek özel bir üzüntüyle mi?
+  ROSSE - Hiçbir insan yoktur ki, ondan bir üzüntü payı çıkarmasın; evet, çoğu yalnızca sizinle ilgili.
+  MACDUFF - Eğer benimle ilgiliyse, onu benden saklama, çabuk söyle öğreneyim.
+  ROSSE - Sakın kulaklarınız onlara şimdiye kadar işittikleri en acı sözü duyurdu diye beni bundan böyle kötü bilmesin.
+  MACDUFF - Evet, galiba tahmin ediyorum söyleyeceklerini.
+  ROSSE - Şatonuz baskına uğradı; karınız, çocuklarınız vahşice öldürüldü. Ne türlü öldürüldüklerini anlatmak bu kurbanlar yığınına sizin de ölünüzü katmak olur.
+  MALCOLM - Aman Tanrım! Yok kardeşim! Başlığınızı gözlerinize indirmeyin. İçinizi dökün; dile gelmeyen acı, zaten dolu olan yüreğe akar, onu parçalanmaya zorlar.
+  MACDUFF - Çocuklarım da ha?
+  ROSSE - Çoluk, çocuk, hizmetli, kimi buldularsa.
+  MACDUFF - Ben de orada bulunmayayım ha! Karım da öldürüldü demek!
+  ROSSE - Söyledim.
+  MALCOLM - Kendinizi avutun; bu ölümlü acıyı iyileştirmek için büyük acımızı ilaç bilelim.
+  MACDUFF - Çocuğu yok onun... Güzel yavrularımın hepsi ha? Hepsi mi dedin? Ah cehennem atmacası! Hepsi ha? Ne, bütün yavrucaklarım da, anaları da tek bir ilençlenesi pençeyle ha?
+  MALCOLM - Erkekçe karşılayın bu acıyı.
+  MACDUFF - Öyle karşılayacağım, ama önce insan gibi de duymam gerek acımı. Benim için o kadar değerli olan şeyleri, şimdi yoklar, bir zaman vardılar diye düşünmemek elimde değil. Tanrı bunu gördü de onlardan yana çıkmadı mı? Ah günahkâr Macduff! Onların hepsi senin yüzünden öldüler. Suçlu bendim. Kendi kusurlarından değil, benimkiler yüzünden cinayet üstlerine çullandı. Yerleri cennet olsun şimdi!
+  MALCOLM - Kılıcınızı bilesin bu; acı öfkeye dönsün: yüreği körletmesin, ateşlendirsin.
+  MACDUFF - Ah! O durumdayım ki gözlerimden bir kadın gibi yaşlar akıtıp dilimle yiğitlik taslayabilirim. Ama iyilik dolu gökler, bekletmeyin artık, bu İskoç iblisiyle beni karşı karşıya getirin. Kılıcımın ulaşacağı bir yerde olsun. Eğer kurtulursa Tanrı da onu bağışlasın derim!
+  MALCOLM - İşte, erkekçe bir tavır bu! Haydi, krala gidelim. Ordumuz hazır, eksik olan yalnızca yola çıkmamız; Macbeth'i düşürmek için ağacı bir silkelemek yetecek. Acınızı elinizden geldiği kadar hafifletmeye çalışın. En uzun gecenin de sabahı olur.
+  (Çıkarlar.)
+ 
+
+ 
+
+  BEŞİNCİ PERDE
+ 
+
+ 
+
+  SAHNE I
+ 
+
+  Dunsinane. Hisarda bir oda.
+ 
+
+  Bir hekimle bir nedime girer.
+ 
+
+  HEKİM - Sizinle iki gecedir bekliyorum, ama dediklerinizi doğru çıkaracak bir şey göremedim. Son kez ne zaman yürüdü?
+  NEDİME - Haşmetlimiz sefere gittiğinden beri kaç kez yatağından kalktığını, üstüne geceliğini aldığını, çekmecesini açtığını, kâğıt çıkarıp katlayıp üstüne bir şey yazdığını, okuduğunu sonra mühürleyip yine yatağına döndüğünü gördüm. Hem de bütün bunları derin bir uykudayken yapıyordu.
+  HEKİM - Aynı anda hem uykuda olmak, hem de uyanık görünmek büyük bir sarsıntı geçirdiğini gösterir. Uyku durumundayken yürümesinden ve öbür hareketleri yapmasından başka, bir şeyler söylediğini hiç duydunuz mu?
+  NEDİME - Söyleyemeyeceğim bazı şeyler işittim, efendim.
+  HEKİM - Bana söyleyebilirsiniz, hem de söylemeniz çok yerinde olur.
+  NEDİME - Ne size söylerim, ne başkasına. Sözlerimi kanıtlayamam ki.
+  (Elinde bir şamdanla Lady Macbeth girer.)
+  Bakın! İşte geliyor. Her zamanki durumunda; ama, sağ çıkmayayım ki, derin uykuda. Kendisini gözden kaçırmayın; kıyıya çekilin.
+  HEKİM - O ışığı nereden bulmuş?
+  NEDİME - Yanında duruyordu. Yanında hep ışık istiyor, böyle buyruk verdi.
+  HEKİM - Gördünüz mü, gözleri açık işte.
+  NEDİME - Evet, ama görüşü kapalı.
+  HEKİM - Şimdi ne yapıyor? Bakın, ellerini nasıl oğuşturuyor.
+  NEDİME - Bunu alışkanlık edindi, sanki ellerini yıkıyor. Bazen bir çeyrek saat bu devinimi yapar durur.
+  LADY MACBETH - Şurada bir leke daha var.
+  HEKİM - Dinleyin! Konuşuyor. Daha iyi anımsamak için dediklerini yazacağım.
+  LADY MACBETH - Çık, uğursuz leke! Çık, diyorum! Bir... İki... Eh öyleyse yapmak vakti geldi. Cehennem karanlıkmış. Ayıp size efendimiz, ayıp! Hem asker olun, hem korkun! Kimin bildiğinden ne çekinelim, nasıl olsa gücümüz sorguya gelmez. Yine de kim yaşlı adamda bu kadar kan bulunacağını sanırdı?
+  HEKİM - Dediğini işitiyor musunuz?
+  LADY MACBETH - Fife beyinin bir karısı vardı; şimdi nerede? Ne, bu eller hiç temizlenmeyecek mi? Artık yeter; böyle korkmakla her şeyi bozuyorsunuz.
+  HEKİM - Hay Allah! Öğrenmemeniz gereken bir şeyi öğrenmişsiniz.
+  NEDİME - Eminim ki o söylemeyeceği bir şeyi söyledi. Neler biliyor, bir Tanrı bilir.
+  LADY MACBETH - İşte hâlâ kan kokuyor. Arabistan'ın bütün ıtırları şu minicik elin kokusunu temizleyemez. Ah! Ah! Ah!
+  HEKİM - Ne iç çekiştir bu! Yüreği çok dolu.
+  NEDİME - O erdiği bütün yücelikleri verseniz yine de öyle bir yüreğim olsun istemem.
+  HEKİM - İyi, iyi, iyi.
+  NEDİME - Tanrıya yalvarın da öyle olsun, efendim.
+  HEKİM - Bu hastalık benim hekimliğimi aşıyor. Oysa, uykusunda yürüyüp de sonra dini bütün olarak yatağında ölen bir çok insan gördüm.
+  LADY MACBETH - Ellerinizi yıkayın, geceliğinizi giyin, öyle rengi uçmuş durmayın. Yineliyorum, Banquo gömüldü, mezarından çıkamaz ki.
+  HEKİM - Demek öyle ha?
+  LADY MACBETH - Yatağa, yatağa. Kapı vuruluyor. Gelin, gelin, gelin; verin bana elinizi. Olan oldu artık, bozulamaz. Yatağa, yatağa, yatağa.
+  (Çıkar.)
+  HEKİM - Şimdi yatağına mı gider?
+  NEDİME - Dosdoğru.
+  HEKİM - Çevrede hiç hoş olmayan fısıltılar dolaşıyor. Duyulmadık işler, duyulmadık dertler doğurur; hasta beyinler sırlarını sağır yastıklara açarlar. Hekimden çok rahibe gereksinmesi var onun. Tanrım, Tanrım! Hepimizi bağışla! Peşinden gidin; kendine zarar verecek şeyleri elinin altından kaldırın: gözünüzü üstünden eksik etmeyin. Haydi, iyi geceler. Aklım karma karışık oldu. Gördüklerim beni şaşkına çevirdi. Aklımdan geçenleri söylemeye cesaretim yok.
+  NEDİME - İyi geceler, iyi yürekli hekim.
+  (Çıkarlar.)
+ 
+
+  SAHNE II
+ 
+
+  Dunsinane yakınlarında bir açıklık.
+ 
+
+  Davullar bayraklarla Menteth, Cathness, Angus, Lenox ve askerler girer.
+ 
+
+  MENTETH - İngiliz güçleri yaklaştı; başlarında Malcolm, dedesi Siward ve yiğit Macduff var. İçleri öç alma ateşiyle yanıyor; kutsal davaları, bir ayağı çukurda olan insanı bile coşturup en kanlı ve en sert çarpışmalara sürükler.
+  ANGUS - Onlarla Birnam Ormanı yakınlarında karşılaşacağız; o yana geliyorlar.
+  CATHNESS - Donalbain ağabeyisiyle mi, bilen var mı?
+  LENOX - Kesinlikle değil, efendim. Bende katılan bütün soylu kişilerin listesi var. Siward'ın oğlu orada; ondan başka erliklerini ilk kez göstermeye gelen epeyce tüysüz delikanlı var.
+  MENTETH - Zorba ne yapıyor?
+  CATHNESS - Büyük Dunsinane hisarını iyice sağlamlaştırıyor. Kimine göre delirmiş, daha az nefret duyanlara göre de yaptıkları yiğitçe bir çılgınlık. Şu kesin ki çığrından çıkan işlerini yoluna sokmak elinde değil.
+  ANGUS - Artık gizli cinayetleri eline ayağına dolaşıyor; ikide bir çıkan ayaklanmalar alçaklığını yüzüne vuruyor. Buyruğundakiler buyruk aldıkları için yapıyorlar isteneni, sevgiyle değil. Artık unvanı ona bol geliyor; tıpkı cüce bir hırsızın devden çalıp giydiği giysiler gibi.
+  MENTETH - Öyleyse içinde bulunan her şey böyle bir insanda bulunmaktan utanırken, onun öyle sinip ürkmesini ayıplamamalı.
+  CATHNESS - Eh; biz ilerleyip gerçekten kime bağlı kalacaksak ona bağlılığımızı gösterelim. Sonra, onunla birlikte ülkemizin dirliği için kanımızı son damlasına kadar akıtalım.
+  LENOX - Ya da yalnızca hükümdarlık gülüne çiğ olup yaban otlarını kurutacak kadarını akıtalım. Birnam'a doğru ilerleyelim.
+  (Uygun adımla çıkarlar.)
+ 
+
+  SAHNE III
+ 
+
+  Dunsinane. Hisarda bir oda.
+ 
+
+  Macbeth, hekim ve hizmetliler girer.
+ 
+
+  MACBETH - Artık başka haber getirmeyin, varsın hepsi kaçsın. Birnam Ormanı kalkıp Dunsinane'e doğru yürümedikce korku bana dokunamaz. Malcolm denen oğlan da kimmiş? Kadından doğmuş değil mi? Ölümlülerin sonunu bilen ruhlar bana şunu söylediler: "Korkma Macbeth, kadından doğmuş hiçbir erkeğin gücü sana yetmez!" Öyleyse kaçın dönek beyler, keyfine düşkün İngilizlere katılın. Buyruğu altında olduğum bu ruh, göğsümdeki bu yürek kuşkudan bezmek, korkudan titremek nedir bilmeyecek.
+  (Bir hizmetli girer.)
+  Şeytan seni karaya boyasın, kireç suratlı herif! O kaz bakışını nereden edindin?
+  HİZMETLİ - On bin var...
+  MACBETH - Kaz mı, alçak?
+  HİZMETLİ - Asker, efendim.
+  MACBETH - Git, suratını çimdikle, korkunu kızıl renge bula, ciğeri süt beyazı oğlan! Ne askeri, soytarı? Gazaba gelesi! O çarşaf gibi yanakların korkuyla danışıklığı var. Ne askeri, yoğurt suratlı?
+  HİZMETLİ - İzninizle, İngiliz birlikleri.
+  MACBETH - Git, suratını görmeyeyim.
+  (Hizmetli çıkar.)
+  Seyton!.. Düşündükçe içime bezginlik çöküyor... Seyton, diyorum!... Bu savaş ya iyice yüzümü güldürecek, ya da artık beni yerimden edecek.
+  Yaşayacağım kadar yaşadım; ömrüm güze erişti; kurumuş, sararmış yaprakların yoluna düştü. Yaşlılık çağıyla birlikte gelecek onur, sevgi, saygı, yığınlarca dost gibi şeyler ummamalıyım. Onların yerine açıktan değilse de, içten sövgüler, lafta kalan övgüler, zavallı yüreğin istemediği, ama istemediğini göstermeye de cesaret edemediği övgüler... Seyton!
+  (Seyton girer.)
+  SEYTON - Haşmetlimizin isteği nedir?
+  MACBETH - Yeni ne haber var?
+  SEYTON - Getirilen haberlerin hepsi doğru çıktı, efendimiz.
+  MACBETH - Etim kemiklerimden kesilip ayrılıncaya kadar çarpışacağım. Bana zırhımı ver.
+  SEYTON - Henüz gereği yok.
+  MACBETH - Kuşanacağım. Daha çok atlı çıkarın, ülkeyi baştan başa dolaşsınlar, korku sözünü kim ederse assınlar. Bana zırhımı ver... Hastan nasıl, hekim?
+  HEKİM - Öyle hasta değil, efendimiz; birbirini kovalayan hayaller onu rahat bırakmıyor, daha çok ondan rahatsız.
+  MACBETH -Öyleyse o derdini iyi et. Hasta düşen zihne deva bulamıyor musun, kökleşmiş bir acıyı bellekten söküp çıkaramıyor musun, beynimize yazılıp kalan üzüntüleri silemiyor musun, yüreğe çöken o zehirli irinle şişmiş göğsü tatlı, unutturucu bir ilaçla temizleyemiyor musun?
+  HEKİM - Bu işte hastanın kendini iyileştirmesi gerek.
+  MACBETH - Tıbbı köpeklere at öyleyse... İstemem, gereği yok... Gel, zırhımı giydir; asamı ver... Seyton, adam çıkart... Hekim başı, beyler beni bırakıp kaçıyorlar... Haydi, efendim, çabuk... Eğer elinden geliyorsa, ülkemin suyunu incele, hastalığını bul, sonra onu temizleyip eskisi gibi sağlıklı yap; seni öylesine alkışlarım ki, her alkışın çınlayışı yeni bir alkış olur. Çek, çıkar diyorum... Şu İngilizleri buradan hangi ravent, hangi sinameki, hangi müshil temizleyip atar? Bu konuda bir şeyler biliyor musun?
+  HEKİM - Evet, sevgili efendimiz. Haşmetlimizin hazırlıkları bize bir şeyler anlatıyor.
+  MACBETH - Zırhımı arkamdan getir... Birnam Ormanı Dunsinane'e gelinceye dek ne ölümden korkum var, ne zehirden.
+  (Çıkar.)
+  HEKİM, kendi kendine. - Dunsinane'den bir kurtulsam servet verseler bir daha gelmem.
+  (Çıkarlar.)
+ 
+
+  SAHNE IV
+ 
+
+  Dunsinane yakınında bir açıklık.
+  Bir orman gözükür.
+ 
+
+  Davullar zurnalarla Malcolm, yaşlı Siward ile oğlu, Macduff, Menteth, Cathness, Lenox, Rosse ve yürüyüş durumunda askerler girer.
+ 
+
+  MALCOLM - Kardeşlerim, umarım ki evlerimizde erinç içinde yaşayacağımız günler yaklaşmıştır.
+  MENTETH - Hiç kuşkumuz yok.
+  SIWARD - Şu önümüzdeki hangi orman?
+  MENTETH - Birnam Ormanı.
+  MALCOLM - Her asker kendine bir dal kesip önünde tutarak yürüsün: Böylece ordumuzun sayısını gizlemiş olur, gözcüleri de yanıltırız.
+  SIWARD - Öğrendiğimiz hep aynı şey: Kendine güvenen zorba hâlâ Dunsinane'deymiş, orayı kuşatmamızı önlemeyecekmiş.
+  MALCOLM - Tek orası kaldı zaten. Her yerde büyük küçük herkes kendisine başkaldırdı; hizmetinde olanlar da zorla hizmetinde, gönülden değil.
+  MACDUFF - İşin sonuna gelmeden sevinmeyelim. Biz, yiğitliğimizi sürdürelim.
+  SIWARD - Bizim olan nedir, olmayan ne, buna zaman karar verecek; o da yaklaşıyor. Düşler boş umutlara dönüşebilir. Son söz savaşın sonunda söylenecektir.
+  (Uygun adım yürüyerek çıkarlar.)
+ 
+
+  SAHNE V
+ 
+
+  Dunsinane. Hisarın içi.
+ 
+
+  Davullar bayraklarla Macbeth, Seyton ve askerler girer.
+ 
+
+  MACBETH - Sancaklarınızı dış surlara asın. Duyduğum haykırışlar hep "Geliyorlar!" Sağlam ve güçlü hisarımız, onu kuşatanlara yukardan bakıp güler. Gelip yatsınlar aşağı, açlıkla hastalıktan kırılıncaya kadar. Bizden kaçıp gidenlerle güçleri artmasaydı, onlarla göğüs göğüse çarpışır, hepsini gerisin geri geldikleri yere gönderirdik. O gürültü ne?
+  (İçeriden kadınların çığlığı işitilir.)
+  SEYTON - Kadınların çığlığı, efendimiz.
+  (Çıkar.)
+  MACBETH - Korkunun tadını hemen hemen unuttum. Bir zamanlar geceleyin bir çığlık duysam buz kesilirdim: Korkulu bir öykü dinlesem saçlarım diken diken olurdu. Korkuları artık kanıksadım. Kanlı düşüncelerime yoldaş olan kötülük beni artık hiç ürpertmiyor.
+  (Seyton yine girer.)
+  O çığlık neymiş?
+  SEYTON - Kraliçe ölmüş, efendimiz.
+  MACBETH - Bu er geç olacaktı, bu haber bir gün gelecekti. (6)Yarın sonra yine yarın, yarın diyerek küçük adımlarla ömrün son hecesine kadar ilerleyecektir zaman. Ölüm yolunda ilerlerken bütün dünlerimiz, geçmiş günlerimiz, sersemlere ışık tuttu. Sön, kısacık mum, sön! Ömür bir yürür gölge; zavallı bir kukla ki sahnede salınıp çırpınarak saatini dolduruyor, sonra bir daha adı duyulmuyor: Bir aptalın anlattığı bir masal bu; sırf gürültü, patırtı; bir anlama geldiği de yok.
+  (Bir haberci girer.)
+  Dilini kullanmaya geliyorsun, belli; anlatacağını çabuk anlat.
+  HABERCİ - Haşmetli efendimiz, gördüğümü sandığım bir şeyi haber vereceğim; fakat nasıl söyleyeceğimi bilmiyorum.
+  MACBETH - Söyleyin nedir?
+  HABERCİ - Tepenin üstünde nöbet beklerken Birnam'a doğru baktım, birden bana öyle geldi ki, orman kımıldamaya başladı.
+  MACBETH - Yalancı, köle herif!
+  HABERCİ - Eğer öyle değilse öfkenizle cezalandırılayım. İlerlediği üç mil uzaktan bakınca görülüyor: Dediğim gibi kımıldayan bir orman.
+  MACBETH - Yalan söylüyorsan ilk ağaca diri diri asılacak, orada açlıktan gebereceksin. Sözün doğruysa aynı şeyi sen bana yap istersen, aldırmam... direnme gücüm gevşiyor. Doğruymuş gibi yalanlar söyleyen iblisin söylediklerinde bir şeyler saklı olduğundan kuşkulanmaya başlıyorum.... "Birnam Ormanı Dunsinane'e gelinceye dek korkma!" Oysa şimdi bir orman Dunsinane'e doğru geliyor... Silah başına, silah! Sonra dışarı! Dediğin bu şey doğru çıkarsa ne buradan kaçabilirsin, ne de burada kalabilirsin. Güneşten bıkmaya başlıyorum artık, dünyanın sonunun gelmesini istiyorum. Tehlike çanını çalın! Esin, ölüm rüzgârları! Hiç değilse sırtımızda zırhlarımızla ölürüz!
+  (Çıkarlar.)
+ 
+
+  SAHNE VI
+ 
+
+  Dunsinane. Hisarın önünde bir düzlük.
+ 
+
+  Davullar bayraklarla Malcolm, yaşlı Siward, Macduff vb. ile orduları, ellerinde dallarla girerler.
+ 
+
+  MALCOLM - Artık yaklaşacağımız kadar yaklaştık, yapraktan örtülerinizi atın, olduğunuz gibi gözükün. Siz, değerli atam, yeğenim olan soylu oğlunuzla ilk saldırıya komuta edersiniz. Değerli Macduff ile biz de geriye yapılacak ne kalmışsa, yaparız.
+  SIWARD - Hoşça kalın. Zorbanın ordusunu bu gece bulalım da yenemezsek yenilelim.
+  MACDUFF - Bütün borazanlarımız dile gelsin; kan ve ölümün o gürültülü habercilerinin hepsi soluğumuzla çınlasın.
+  (Çıkarlar, saldırı borazanları çalar.)
+ 
+
+  SAHNE VII
+ 
+
+  Dunsinane. Düzlüğün bir başka yanı.
+ 
+
+  Macbeth girer.
+ 
+
+  MACBETH - Beni sırığa bağladılar: Kaçamıyorum, ayılar gibi. Sonuna kadar dövüşmem gerek. Kimmiş o bakalım, kadından doğmayan? Benim korkum öylesindendir, başkasından değil.
+  (Genç Siward girer.)
+  GENÇ SIWARD - Adın nedir senin?
+  MACBETH - Duysan korkarsın.
+  GENÇ SIWARD - Hayır; isterse adın cehennemdekilerin hepsinden daha yakıcı bir ad olsun.
+  MACBETH - Adım Macbeth.
+  GENÇ SIWARD - Şeytan bile, böylesine nefret uyandıran bir ad söyleyemezdi.
+  MACBETH - Evet, ne de daha korkuncunu.
+  GENÇ SIWARD - Yalan söylüyorsun, iğrenç zorba. Kılıcımla yalanını ortaya çıkartacağım.
+  (Vuruşurlar, genç Siward ölür.)
+  MACBETH - Kadından doğmuşsun... Kadından doğan erkeklerin elindeki kılıçlara gülümserim. Silahlara yukarıdan bakıp gülerim.
+  (Çıkar.)
+  (Tehlike borazanları çalar. Macduff girer).
+  MACDUFF - Gürültü şuradan geliyor... Zorba herif yüzünü göster. Eğer benden kılıç yemeden ölürsen, karım, çocuklarım hortlar, beni rahat bırakmazlar. Miskin Kernlere, (7) mızrak taşımak için parayla tutulmuş İrlanda askerlerine vurmaya elim varmaz. Ya sen çıkacaksın karşıma Macbeth ya da bu onurlu işi gerçekleştiremeyen kılıcımı yine kınına sokacağım. Oradasın herhalde: bu büyük gürültü önemli birinin habercisine benziyor çünkü. Ah, onu bana buldur, talih! Başka bir şey istemem.
+  (Çıkar. Borazanlar çalar.)
+  (Malcolm ile yaşlı Siward girer).
+  SIWARD - Bu yandan, efendimiz. Hisar kolayca teslim oldu. Zorbanın adamları bir onların yanında, bir bizim yanımızda çarpışıyor. Soylu beyler dövüşte kahramanlık gösteriyorlar. Günü hemen hemen kazandınız gibi, yapacak bir şey pek kalmadı.
+  MALCOLM - Bizim yanımızda çarpışan düşmanlarımıza bile rasladık.
+  SIWARD - Şatoya buyurun, efendim.
+  (Çıkarlar. Borazanlar çalar.)
+  (Macbeth yine girer.)
+  MACBETH - Ne diye Romalı sersemler gibi davranıp kendi kılıcımla kendimi öldüreyim? Karşımda sağ insan gördükçe, yarayı onlara yakıştırırım.
+  (Macduff yine girer.)
+  MACDUFF - Dön bu yana cehennemlik köpek, dön!
+  MACBETH - Herkes içinde bir senden sakınmıştım. Çekil: ruhum senin kanınla zaten çok yüklü.
+  MACDUFF - Söyleyecek sözüm yok. Sözüm kılıcımda. Ah, sözcüklere sığmayacak kadar kanlı katilsin sen!
+  (Vuruşurlar.)
+  MACBETH - Boşuna emek harcıyorsun. Keskin kılıcınla ha kesilmez havayı kesmişsin, ha benim kanımı akıtmışsın. Kılıcın yaralanabilen başlara vursun. Benim yaşamım büyülüdür: kadından doğmuş kimseye boyun eğmez.
+  MACDUFF - O büyüden umudunu kes; Kölesi olduğun ruh da sana bildirsin ki Macduff zamanından önce anasının karnından alınmıştı.
+  MACBETH - Bana bunu söyleyen dile ilenç olsun: çünkü en güçlü yanımı yıktı. Kaypak sözlerle bizi aldatan, kulağımıza fısıldayarak sözler verip sonra düş kırıklığına uğratan bu kalleş cadılara bir daha kimse inanmasın! Seninle vuruşmam.
+  MACDUFF - Öyleyse teslim ol, korkak! Sağ kal da seni herkese gösterelim. Senin resmini, raslanmadık ejderlerinki gibi, bir sırığın üstüne yaptırır, altına da "Zorbayı burada görebilirsiniz!" diye yazarız.
+  MACBETH - Genç Malcolm'un ayağının dibinde toprağı öpmek, kalabalığın gözleriyle aşağılanmak için teslim olmam. İster Birnam ormanı Dunsinane'e gelmiş olsun, ister kadından doğmayan sen karşıma çık, son bir kez daha denerim. Önüme kalkanımı siper ediyorum: Vur Macduff! "Dur, yetişir!" diye ilk bağırana ilenç olsun.
+  (Vuruşarak çıkarlar.)
+  (Yeniliş borusu çalar. Borazanlar, davullar bayraklarla yine Malcolm, yaşlı Siward, Rosse, beyler ve askerler girer.)
+  MALCOLM - Burada olmayan dostlar sağ esen bir gelseler.
+  SIWARD - Kimisi büsbütün gitmiştir, kaçınılmaz; fakat şu gördüklerime göre bu kadar büyük bir gün ucuz kazanılmıştır.
+  MALCOLM - Macduff ortada yok, soylu oğlunuz da.
+  ROSSE - Efendimiz, oğlunuz erlik borcunu ödedi: erkekliğini gösterdiği güne kadar ömrü varmış. Yiğitliğini kanıtladı ve gerilemeden çarpıştığı noktada erkekçe öldü.
+  SIWARD - Öldü demek ha?
+  ROSSE - Evet savaş alanından kaldırdılar. Büyük acınız onun değeriyle ölçülmesin, çünkü o zaman sonu gelmez bu acının.
+  SIWARD - Yaraları önde miydi?
+  ROSSE - Evet, göğsünde.
+  SIWARD - Eh öyleyse, Tanrının eri olmuş! Saçlarımın teli sayısınca oğlum olsa, hiçbirine daha güzel bir ölüm dilemezdim. Ölüm çanı işte böyle çalındı.
+  MALCOLM - O değerli insan, daha büyük yasa değer, kendisinden bunu esirgemeyeceğim.
+  SIWARD - Hayır gerekmez. Diyorlar ki, onuruyla ölmüş, borcunu ödemiş. Bu yeter ona. Artık Tanrı günahlarını bağışlasın! İşte acımızı hafifletecek bir şey geliyor.
+  (Macbeth'in kafasıyla Macduff girer.)
+  MACDUFF - Selam sana, ey kral! Çünkü kralsın. Gör, bak, hakkını zorla ele geçirenin ilençli kafası nerede duruyor. Bütün dünya kurtuldu! Seni hükümdarlığının değerleriyle çevrilmiş görüyorum. Benim selamımı herkes paylaşıyor. Seslerin yükselip benimkine katılmasını isterim. Bağıralım. Selam İskoçya Kralı!
+  HEPSİ - Selam İskoçya Kralı!
+  (Borazanlar çalar.)
+  MALCOLM - Çok zaman geçirmeden her birinizin sevgisine karşı borcumu ödeyeceğim. Beylerim ve yakınlarım, bundan sonra kontsunuz! Bu onurlu sanı İskoçya'da ilk alan sizlersiniz. Yeni bir çağ açıyoruz. Bunun için ne gerekiyorsa yapacağız. Kuşkucu baskının tuzağından kaçmış, yabancı ülkelerde sürgün yaşayan dostlarımızı geri getireceğiz. Bu ölü kasabın ve anlaşıldığına göre hırsa düşüp kendi eliyle canını alan o şeytandan farksız kraliçesinin acımasız adamlarını bulup ortaya çıkaracağız. Bütün bunları ve bizden beklenen daha ne varsa, hepsini, Tanrı'nın yardımıyla, ölçüsünde, zamanında ve yerinde yapacağız. Hepinize, ayrı ayrı teşekkür ediyorum. Sizleri Scone'da taç giyme törenimize çağırıyorum.
+  (Borazanlar çalar. Çıkarlar.)
